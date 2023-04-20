@@ -2,9 +2,11 @@ import pandas as pd
 
 df = pd.read_csv('BTC-USD.csv')
 
-print(df.iloc[0].to_string())
+def normalize(dataframe):
+    del dataframe['Adj Close']
+    del dataframe['Date']
+    avg_price = [(row['Open'] + row['Close'] + row['High'] + row['Low'])/4 for index, row in df.iterrows()]
+    dataframe['Avg'] = avg_price
 
-def normalize (dataframe):
-    del df['unix']
-    del df['symbol']
-
+normalize(df)
+print(df)
