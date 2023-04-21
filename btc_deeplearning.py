@@ -17,43 +17,54 @@ def normalize(dataframe):
 #Dataset szétosztása training és test setre a forrás pszeudokódja alapján
 #A kiválasztott érték a tanításhoz az avg
 def split():
-    training = []
-    test = []
+    training = np.array([])
+    test = np.array([])
     div_ratio = 0.8
     df_elemenets_count = len(df.index)
     div_at = int(df_elemenets_count * div_ratio)
     for index, row in df.iterrows():
         if index < div_at:
-            training.append(df.iloc[index].at['Avg'])
+            training = np.append(training, df.iloc[index].at['Avg'])
         else:
-            test.append(df.iloc[index].at['Avg'])
+            test = np.append(test, df.iloc[index].at['Avg'])
     return(training, test)
 
 #MinMax normálizálás
 def MinMaxScale(array):
     lenght = len(array)
-    arr = np.array(array).reshape(lenght, 1)
+    print(type(array[0]))
+    array = np.reshape(array, (lenght, 1)) #Itt van a bug
+    print(type(array[0]))
     scaler = MinMaxScaler()
-    scaled_set = scaler.fit_transform(arr)
+    scaled_set = scaler.fit_transform(array)
+    print(type(scaled_set[0]))
     return scaled_set
 
-def split2(dataframe, pastdays):
-    training = []
-    test = []
-    for index, row in df.iterrows():
-        outindex = index + pastdays
-        if outindex > df.shape[0] - 1:
+#30 bementhez 1 kimenet rendelése
+def processData(trainset, pastdays):
+    #print(type(trainset[0]))
+    x_train = []
+    y_train = []
+    n = len(trainset)
+    for i in range (0, n):
+        maxindex = i + pastdays
+        if maxindex > n - 1:
             break
-        temp_training = dataframe.iloc[index:outindex].at['Avg']
-        temp_test = dataframe.iloc[outindex].at['Avg']
-        training.append(temp_training)
+        temp_xtrain = trainset[i:maxindex]
+        temp_ytrain = trainset[maxindex]
+        x_train.append(temp_xtrain)
+        y_train.append(float(temp_ytrain))
+    return(x_train, y_train)
 
 normalize(df)
 training_set, test_set = split()
+print(type(training_set[0]))
 training_set = MinMaxScale(training_set)
-test_set = MinMaxScale(test_set)
-
+print(type(training_set[0]))
+#test_set = MinMaxScale(test_set)
 pastdays = 30
-print(training_set)
+X_train, Y_train = processData(training_set, pastdays)
+
+#print(X_train)
 print("------------------------------------------------------------------------------------------------")
-print(test_set)
+#print(Y_train)
