@@ -1,7 +1,10 @@
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
+from keras.models import Sequential, load_model
+from keras.layers import Dense, LSTM, Dropout, GRU
 
+#Adattábla beolvasása DataFramebe
 df = pd.read_csv('BTC-USD.csv')
 
 #Bemeneti dataset alap normalizálása
@@ -32,7 +35,7 @@ def split():
 #MinMax normálizálás
 def MinMaxScale(array):
     lenght = len(array)
-    array = np.reshape(array, (lenght, 1)) #Itt van a bug
+    array = np.reshape(array, (lenght, 1))
     scaler = MinMaxScaler()
     scaled_set = scaler.fit_transform(array)
     ret_arr = [scaled_set[i][0] for i in range(0, len(scaled_set))] #nem szép megoldás, típuskonverzió miatt
@@ -53,13 +56,50 @@ def processData(trainset, pastdays):
         y_train.append(temp_ytrain)
     return(x_train, y_train)
 
+def trainAndSaveModel(x_train, y_train):
+    #LSTM modell
+    lstm_model = Sequential()
+    lstm_model.add(LSTM(units=30, return_sequences=True, input_shape=(x_train.shape[1],1)))
+    lstm_model.add(Dropout(0.2))
+    lstm_model.add(LSTM(units=50, return_sequences=True))
+    lstm_model.add(Dropout(0.2))
+    lstm_model.add(Dense(units=1))
+
+    #GRU modell
+    gru_model = Sequential()
+    gru_model.add(GRU(units=30, activation='tanh'))
+    gru_model.add(Dropout(0.2))
+    gru_model.add(Dense(units=1))
+
+    #Összevont modell
+    merged_model = Sequential()
+    merged_model.add(lstm_model)
+    merged_model.add(gru_model)
+    merged_model.add(Dense(units=1, activation="relu"))
+    merged_model.compile(optimizer='adam',loss='mean_squared_error')
+    merged_model.fit(x_train, y_train, epochs=100)
+
+    merged_model.save('merged_model.h5')
+
 normalize(df)
 training_set, test_set = split()
 training_set = MinMaxScale(training_set)
-#test_set = MinMaxScale(test_set)
+
+#Tanító tömbök kialakítása
 pastdays = 30
 X_train, Y_train = processData(training_set, pastdays)
+X_train, Y_train = np.array(X_train), np.array(Y_train)
+X_train = np.reshape(X_train, (X_train.shape[0],X_train.shape[1],1))
 
-print(X_train)
-print("------------------------------------------------------------------------------------------------")
-print(Y_train)
+#Tanítás és Mentés
+#trainAndSaveModel(X_train, Y_train)
+
+#Teszt set előkészítése és előrejelzés
+model = load_model('merged_model.h5')
+scaler = MinMaxScaler()
+scaled_test = scaler.fit_transform(test_set)
+X_test = np.array(scaled_test)
+X_test = np.reshape(X_test, (X_test.shape[0],30,1))
+predict = model.predict(X_test)
+predict = scaler.inverse_transform(predict)
+print(predict)
