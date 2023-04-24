@@ -32,17 +32,14 @@ def split():
 #MinMax normálizálás
 def MinMaxScale(array):
     lenght = len(array)
-    print(type(array[0]))
     array = np.reshape(array, (lenght, 1)) #Itt van a bug
-    print(type(array[0]))
     scaler = MinMaxScaler()
     scaled_set = scaler.fit_transform(array)
-    print(type(scaled_set[0]))
-    return scaled_set
+    ret_arr = [scaled_set[i][0] for i in range(0, len(scaled_set))] #nem szép megoldás, típuskonverzió miatt
+    return ret_arr
 
 #30 bementhez 1 kimenet rendelése
 def processData(trainset, pastdays):
-    #print(type(trainset[0]))
     x_train = []
     y_train = []
     n = len(trainset)
@@ -53,18 +50,16 @@ def processData(trainset, pastdays):
         temp_xtrain = trainset[i:maxindex]
         temp_ytrain = trainset[maxindex]
         x_train.append(temp_xtrain)
-        y_train.append(float(temp_ytrain))
+        y_train.append(temp_ytrain)
     return(x_train, y_train)
 
 normalize(df)
 training_set, test_set = split()
-print(type(training_set[0]))
 training_set = MinMaxScale(training_set)
-print(type(training_set[0]))
 #test_set = MinMaxScale(test_set)
 pastdays = 30
 X_train, Y_train = processData(training_set, pastdays)
 
-#print(X_train)
+print(X_train)
 print("------------------------------------------------------------------------------------------------")
-#print(Y_train)
+print(Y_train)
