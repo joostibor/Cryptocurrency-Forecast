@@ -42,12 +42,12 @@ def MinMaxScale(array):
     return ret_arr
 
 #30 bementhez 1 kimenet rendelése
-def processData(trainset, pastdays):
+def processData(trainset, timestamps):
     x_train = []
     y_train = []
     n = len(trainset)
     for i in range (0, n):
-        maxindex = i + pastdays
+        maxindex = i + timestamps
         if maxindex > n - 1:
             break
         temp_xtrain = trainset[i:maxindex]
@@ -56,6 +56,17 @@ def processData(trainset, pastdays):
         y_train.append(temp_ytrain)
     return(x_train, y_train)
 
+def processTestData(testset):
+    x_test = []
+    n = len(testset)
+    for i in range(0, n):
+        maxindex = i + timestamps
+        if maxindex > n - 1:
+            break
+        temp_xtest = testset[i:maxindex]
+        x_test.append(temp_xtest)
+    return x_test
+
 def trainAndSaveModel(x_train, y_train):
     #LSTM modell
     lstm_model = Sequential()
@@ -63,13 +74,13 @@ def trainAndSaveModel(x_train, y_train):
     lstm_model.add(Dropout(0.2))
     lstm_model.add(LSTM(units=50, return_sequences=True))
     lstm_model.add(Dropout(0.2))
-    lstm_model.add(Dense(units=1))
+    lstm_model.add(Dense(units=1, activation="relu"))
 
     #GRU modell
     gru_model = Sequential()
-    gru_model.add(GRU(units=30, activation='tanh'))
+    gru_model.add(GRU(units=30, return_sequences=True, activation='tanh'))
     gru_model.add(Dropout(0.2))
-    gru_model.add(Dense(units=1))
+    gru_model.add(Dense(units=1, activation="relu"))
 
     #Összevont modell
     merged_model = Sequential()
@@ -79,15 +90,15 @@ def trainAndSaveModel(x_train, y_train):
     merged_model.compile(optimizer='adam',loss='mean_squared_error')
     merged_model.fit(x_train, y_train, epochs=100)
 
-    merged_model.save('merged_model.h5')
+    merged_model.save('btc_model.h5')
 
 normalize(df)
 training_set, test_set = split()
 training_set = MinMaxScale(training_set)
 
 #Tanító tömbök kialakítása
-pastdays = 30
-X_train, Y_train = processData(training_set, pastdays)
+timestamps = 30
+X_train, Y_train = processData(training_set, timestamps)
 X_train, Y_train = np.array(X_train), np.array(Y_train)
 X_train = np.reshape(X_train, (X_train.shape[0],X_train.shape[1],1))
 
@@ -95,11 +106,16 @@ X_train = np.reshape(X_train, (X_train.shape[0],X_train.shape[1],1))
 #trainAndSaveModel(X_train, Y_train)
 
 #Teszt set előkészítése és előrejelzés
-model = load_model('merged_model.h5')
+model = load_model('btc_model.h5')
+lenght = len(test_set)
+test_set = np.reshape(test_set, (lenght, 1))
 scaler = MinMaxScaler()
 scaled_test = scaler.fit_transform(test_set)
-X_test = np.array(scaled_test)
-X_test = np.reshape(X_test, (X_test.shape[0],30,1))
+X_test = processTestData(scaled_test)
+X_test = np.array(X_test)
+X_test = np.reshape(X_test, (X_test.shape[0],X_test.shape[1],1))
 predict = model.predict(X_test)
-predict = scaler.inverse_transform(predict)
-print(predict)
+predicted_price = np.max(predict[0])
+predicted_price = np.reshape(predicted_price, (1,-1))
+predicted_price = scaler.inverse_transform(predicted_price)
+print(predicted_price)
