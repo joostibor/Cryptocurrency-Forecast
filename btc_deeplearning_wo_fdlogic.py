@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 from sklearn.preprocessing import MinMaxScaler
-from keras.layers import Dense, Dropout, LSTM, GRU, concatenate
-from keras.models import Sequential
+from keras.layers import Input, Dense, Dropout, LSTM, GRU, concatenate
+from keras.models import Model
 
 #Adat beolvasása
 data = pd.read_csv('BTC-USD.csv', index_col='Date', parse_dates=['Date'])
@@ -26,31 +26,30 @@ for x in range(timestamps, len(scaled_data)):
 x_train, y_train = np.array(x_train), np.array(y_train)
 x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 1))
 
-#Neurális hálózat építése, tanítása és mentése
-#LSTM modell
-lstm_model = Sequential()
-lstm_model.add(LSTM(units=30, return_sequences=True, input_shape=(x_train.shape[1], 1)))
-lstm_model.add(Dropout(0.2))
-#model.add(LSTM(units=50, return_sequences=True))
-#model.add(Dropout(0.2))
-lstm_model.add(LSTM(units=50, return_sequences=True))
-#model.add(Dropout(0.2))
-lstm_model.add(Dense(units=1))
+#LSTM oldal
+lstm_input = Input(shape=(x_train.shape[1], 1), name='LSTM input')
+lstm_1 = LSTM(units=30, return_sequences=True, name='First_LSTM')(lstm_input)
+lstm_2 = Dropout(0.2, name='first_LSTM_Droupout')(lstm_1)
+lstm_3 = LSTM(units=50, name='Second_LSTM')(lstm_2)
+lstm_4 = Dropout(0.2, name='second_LSTM_Droupout')(lstm_3)
+lstm_5 = Dense(units=1, name='LSTM_output_Dense')(lstm_4)
 
-#GRU modell
-gru_model = Sequential()
-gru_model.add(GRU(units=30, return_sequences=True, input_shape=(x_train.shape[1], 1), activation='tanh'))
-gru_model.add(Dropout(0.2))
-gru_model.add(Dense(units=1))
+#GRU oldal
+gru_input = Input(shape=(x_train.shape[1], 1), name='GRU_input')
+gru_1 = GRU(units=30, activation='tanh', name='first_GRU')(gru_input)
+gru_2 = Dropout(0.2, name='GRU_dropout')(gru_1)
+gru_3 = Dense(units=1, name='GRU_output_Dense')(gru_2)
 
-#Összevont modell
-merged_model = Sequential()
-merge = concatenate(lstm_model, gru_model) #itt a hiba
-merged_model.add(merge)
-merged_model.add(Dense(units=1, activation="relu"))
-merged_model.compile(optimizer='adam', loss='mean_squared_error', metrics=['accuracy'])
-merged_model.fit(x_train, y_train, epochs=100, batch_size=32)
+#Összevonás
+lstm_gru = concatenate([lstm_5, gru_3], name='concatanated_layer')
 
+#Végső kimenet
+output = Dense(units=1, activation="relu", name='Output_Dense_layer')(lstm_gru)
+
+#Modell tanítása és mentése
+merged_model = Model(inputs=[(lstm_input, gru_input)], outputs=[output], name='Merged_model')
+merged_model.compile(optimizer='adam', loss='mean_squared_error')
+merged_model.fit([x_train, x_train], y_train, epochs=25, batch_size=32)
 merged_model.save('btc_model_wo_fdlogic.h5')
 
 #Modell tesztelése a 2020 utáni adatokkal
@@ -71,7 +70,7 @@ x_test = np.array(x_test)
 x_test = np.reshape(x_test, (x_test.shape[0], x_test.shape[1], 1))
 
 #x_test intervallumon árak előrejelzése
-predicted_prices = merged_model.predict(x_test)
+predicted_prices = merged_model.predict([x_test, x_test])
 predicted_prices = scaler.inverse_transform(predicted_prices)
 
 plt.plot(fact_prices, color='black', label='Valós napi záróárfolyam')
@@ -87,6 +86,6 @@ real_data = [model_inputs[len(model_inputs) + 1 - timestamps:len(model_inputs) +
 real_data = np.array(real_data)
 real_data = np.reshape(real_data, (real_data.shape[0], real_data.shape[1], 1))
 
-prediction = merged_model.predict(real_data)
+prediction = merged_model.predict([real_data, real_data])
 prediction = scaler.inverse_transform(prediction)
 print(prediction)
