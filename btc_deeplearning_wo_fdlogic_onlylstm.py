@@ -14,33 +14,32 @@ scaler = MinMaxScaler(feature_range=(0,1))
 scaled_data = scaler.fit_transform(data['Close'].values.reshape(-1,1))
 
 #Időintervallumok definiálása
-timestamps = 60 
-future_days = 30
+timestamps = 30 
 
 #Tanító tömbök létrehozása
 x_train, y_train = [], []
 
-for x in range(timestamps, len(scaled_data)-future_days):
+for x in range(timestamps, len(scaled_data)):
     x_train.append(scaled_data[x-timestamps:x, 0])
-    y_train.append(scaled_data[x+future_days, 0])
+    y_train.append(scaled_data[x, 0])
 
 x_train, y_train = np.array(x_train), np.array(y_train)
 x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 1))
 
 #Neurális hálózat építése, tanítása és mentése
+#LSTM modell
 model = Sequential()
-model.add(LSTM(units=50, return_sequences=True, input_shape=(x_train.shape[1], 1)))
+model.add(LSTM(units=30, return_sequences=True, input_shape=(x_train.shape[1], 1)))
 model.add(Dropout(0.2))
 model.add(LSTM(units=50, return_sequences=True))
 model.add(Dropout(0.2))
 model.add(LSTM(units=50))
 model.add(Dropout(0.2))
 model.add(Dense(units=1))
-
 model.compile(optimizer='adam', loss='mean_squared_error')
 model.fit(x_train, y_train, epochs=25, batch_size=32)
 
-model.save('btc_lstmonly.h5')
+model.save('btc_model_wo_fdlogic_lstmonly.h5')
 
 #Modell tesztelése a 2020 utáni adatokkal
 test_data = data['2020':]
@@ -66,9 +65,8 @@ predicted_prices = scaler.inverse_transform(predicted_prices)
 plt.plot(fact_prices, color='black', label='Valós napi záróárfolyam')
 plt.plot(predicted_prices, color='green', label='Modell által előrejelzett árfolyam')
 plt.title('BTC Árfolyam előrejelzés')
-plt.xlabel('Dátum')
-plt.xticks(test_data['Date'])
-plt.ylabel('Price')
+plt.xlabel('Idő')
+plt.ylabel('Ár')
 plt.legend(loc='upper left')
 plt.show()
 
