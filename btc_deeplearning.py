@@ -103,7 +103,7 @@ X_train, Y_train = np.array(X_train), np.array(Y_train)
 X_train = np.reshape(X_train, (X_train.shape[0],X_train.shape[1],1))
 
 #Tanítás és Mentés
-#trainAndSaveModel(X_train, Y_train)
+trainAndSaveModel(X_train, Y_train)
 
 #Teszt set előkészítése és előrejelzés
 model = load_model('btc_model.h5')
