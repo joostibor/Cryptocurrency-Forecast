@@ -52,6 +52,8 @@ merged_model.compile(optimizer='adam', loss='mean_squared_error')
 merged_model.fit([x_train, x_train], y_train, epochs=25, batch_size=32)
 merged_model.save('btc_model_wo_fdlogic.h5')
 
+"""
+
 #Modell tesztelése a 2020 utáni adatokkal
 test_data = data['2020':]
 fact_prices = test_data['Close'].values
@@ -89,3 +91,4 @@ real_data = np.reshape(real_data, (real_data.shape[0], real_data.shape[1], 1))
 prediction = merged_model.predict([real_data, real_data])
 prediction = scaler.inverse_transform(prediction)
 print(prediction)
+"""
