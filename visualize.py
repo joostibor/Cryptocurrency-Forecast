@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-p_data = pd.read_csv('BTC-USD_predict.csv', index_col='Date', parse_dates=['Date'])
+p_data = pd.read_csv('BTC-USD_predict_wfdl.csv', index_col='Date', parse_dates=['Date'])
 f_data = pd.read_csv('BTC-USD_fact.csv', index_col='Date', parse_dates=['Date'])
 
 predict_data = p_data['2022':]
