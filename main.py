@@ -185,7 +185,10 @@ def testModelAndFutureRatePredict(cryptocurrencies, filenametags, modelnametags,
         plt.clf()
         plt.plot(fact_prices, color='black', label='Valós napi záróárfolyam')
         plt.plot(predicted_prices, color='green', label='Modell által előrejelzett árfolyam')
-        plt.title(f'LSTM-GRU hibrid modell árfolyami előrejelzési tesztje {c} kriptovalután, 2020 utáni adatokkal')
+        if "olstm" in modelnametags[idx]:
+            plt.title(f'LSTM modell árfolyam előrejelzési tesztje {c} kriptovalután')
+        else:
+            plt.title(f'LSTM-GRU hibrid modell árfolyam előrejelzési tesztje {c} kriptovalután')
         plt.xticks([])
         plt.ylabel('Ár ($)')
         plt.legend(loc='upper left')
@@ -224,7 +227,10 @@ def visualizeAndSave(cryptocurrencies, filenametags, svgfilenametags):
             plt.clf()
             plt.plot(p_data['2023':]['Close'], color='green', label='Modell alapján előrejelzett napi záró árfolyam')
             plt.plot(f_data['2023':]['Close'], color='black', label='Valós napi záró árfolyamok')
-            plt.title(f'{c} záró árfolyam előrejelzés LSTM-GRU hibrid modellel')
+            if "olstm" in filenametags[i]:
+                plt.title(f'{c} záró árfolyam előrejelzés LSTM modellel')
+            else:
+                plt.title(f'{c} záró árfolyam előrejelzés LSTM-GRU hibrid modellel')
             plt.xticks(rotation=45, fontsize=8)
             plt.ylabel('Ár ($)')
             plt.legend(loc='upper left')
@@ -236,17 +242,15 @@ csv_filenametags = ['-USD_fact.csv', '-USD_p_wfdl.csv', '-USD_p_wofdl.csv', '-US
 model_filenametags = ['_model_w_fdlogic.h5', '_model_wo_fdlogic.h5', '_model_olstm_w_fdlogic.h5', '_model_olstm_wo_fdlogic.h5'] 
 svg_filenametags = ['-USD_wfdl_test.svg', '-USD_wfdl.svg', '-USD_wofdl_test.svg', '-USD_wofdl.svg', '-USD_olstm_wfdl_test.svg',
                     '-USD_olstm_wfdl.svg', '-USD_olstm_wofdl_test.svg', '-USD_olstm_wofdl.svg']
-#refreshExchangeRate(cryptos) #Árfolyamadatok aktualizálása a futtatás napjáig
-#makeModelLSTMGRU(cryptos, csv_filenametags, model_filenametags, True, False) #LSTM-GRU hibrid modell elkészítése fdlogic nélkül
-#makeModelLSTMGRU(cryptos, csv_filenametags, model_filenametags, True, True) #LSTM-GRU hibrid modell elkészítése fdlogic-kal
-#makeModelLSTM(cryptos, csv_filenametags, model_filenametags, True, False) #Kizárólag LSTM ágat tartalmazó modell elkészítése fdglogic nélkül
-#makeModelLSTM(cryptos, csv_filenametags, model_filenametags, True, True) #Kizárólag LSTM ágat tartalmazó modell elkészítése fdglogic-kal
+refreshExchangeRate(cryptos) #Árfolyamadatok aktualizálása a futtatás napjáig
+makeModelLSTMGRU(cryptos, csv_filenametags, model_filenametags, True, False) #LSTM-GRU hibrid modell elkészítése fdlogic nélkül
+makeModelLSTMGRU(cryptos, csv_filenametags, model_filenametags, True, True) #LSTM-GRU hibrid modell elkészítése fdlogic-kal
+makeModelLSTM(cryptos, csv_filenametags, model_filenametags, True, False) #Kizárólag LSTM ágat tartalmazó modell elkészítése fdglogic nélkül
+makeModelLSTM(cryptos, csv_filenametags, model_filenametags, True, True) #Kizárólag LSTM ágat tartalmazó modell elkészítése fdglogic-kal
 #Árfolyam előrejelzés
-#testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, True, False)
-#testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, True, True)
-#testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, False, False)
-#testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, False, True)
-#testModelAndFutureRatePredict('BTC', csv_filenametags, model_filenametags, svg_filenametags, True, True)
+testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, True, False)
+testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, True, True)
+testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, False, False)
+testModelAndFutureRatePredict(cryptos, csv_filenametags, model_filenametags, svg_filenametags, False, True)
 
-#!!!!!Feliratok fejlesztés szükséges + LSTM-GRU fdlogiccal valamiért nem jól futott le, ugyanis korábbról kezdte a predikciót
 visualizeAndSave(cryptos, csv_filenametags, svg_filenametags) #Megjelenítés és grafikon mentése
