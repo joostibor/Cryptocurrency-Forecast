@@ -9,6 +9,8 @@ from keras.layers import Input, Dense, Dropout, LSTM, GRU, concatenate
 from keras.models import Model, load_model, Sequential
 from datetime import timedelta, datetime
 
+cryptos = ['BTC', 'ETH', 'BNB', 'DOGE', 'LTC'] #Bitcoin, Ethereum, Binance, DogeCoin, Litecoin
+
 def refreshExchangeRate(cryptocurrencies):
     for c in cryptocurrencies:
         crypto_exc = yf.Ticker(f'{c}-USD')
@@ -229,6 +231,8 @@ def visualizeAndSave(cryptocurrencies, filenametags, svgfilenametags):
             plt.plot(f_data['2023':]['Close'], color='black', label='Valós napi záró árfolyamok')
             if "olstm" in filenametags[i]:
                 plt.title(f'{c} záró árfolyam előrejelzés LSTM modellel')
+            elif "osvm" in filenametags[i]:
+                plt.title(f'{c} záró árfolyam előrejelzés SVM modellel')
             else:
                 plt.title(f'{c} záró árfolyam előrejelzés LSTM-GRU hibrid modellel')
             plt.xticks(rotation=45, fontsize=8)
@@ -238,7 +242,6 @@ def visualizeAndSave(cryptocurrencies, filenametags, svgfilenametags):
             plt.show()
 
 def main():
-    cryptos = ['BTC', 'ETH', 'BNB', 'DOGE', 'LTC'] #Bitcoin, Ethereum, Binance, DogeCoin, Litecoin
     csv_filenametags = ['-USD_fact.csv', '-USD_p_wfdl.csv', '-USD_p_wofdl.csv', '-USD_p_olstm_wfdl.csv', '-USD_p_olstm_wofdl.csv']
     model_filenametags = ['_model_w_fdlogic.h5', '_model_wo_fdlogic.h5', '_model_olstm_w_fdlogic.h5', '_model_olstm_wo_fdlogic.h5'] 
     svg_filenametags = ['-USD_wfdl_test.svg', '-USD_wfdl.svg', '-USD_wofdl_test.svg', '-USD_wofdl.svg', '-USD_olstm_wfdl_test.svg',
