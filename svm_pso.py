@@ -6,11 +6,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVR
 from datetime import datetime, timedelta
 
+#Scaling
+from sklearn.preprocessing import MinMaxScaler
+
 def dataPreprocessingAndSvmTeaching(dataframe, rbf):
     dataframe['Prediction'] = dataframe[['Close']].shift(-forecasting_days) #Új oszlop beszúrása az előrejelzendő napok számával megegyező eltolással
-    x = np.array(df.drop(['Date', 'Open', 'High', 'Low', 'Volume', 'Prediction'], axis=1)) #Close oszlop átkonvertálás numpy tömbbé
-    x = x[:len(df)-forecasting_days] #x tömb méretének csökkentése az előjelzendő napok számával
-    y = np.array(df['Prediction']) #Újonnan beszúrt oszlop konvertálása numpy tömbbé
+    x = np.array(dataframe.drop(['Date', 'Open', 'High', 'Low', 'Volume', 'Prediction'], axis=1)) #Close oszlop átkonvertálás numpy tömbbé
+    x = x[:len(dataframe)-forecasting_days] #x tömb méretének csökkentése az előjelzendő napok számával
+    y = np.array(dataframe['Prediction']) #Újonnan beszúrt oszlop konvertálása numpy tömbbé
     y = y[:-forecasting_days] #Üres sorok kihagyása
     x_train, x_test, y_train, y_test = train_test_split(x,y,test_size=0.2) #Adatok szétválasztása -> 80% tanító, 20% tesztelő
     rbf.fit(x_train, y_train) #SVM tanítása
@@ -43,8 +46,7 @@ for c in cryptos:
         forecast = rbf.predict(last_rows)
         df = df.drop(['Prediction'], axis=1)
         df.loc[len(df)] = [str((datetime.strptime(df.iloc[-1]['Date'], '%Y-%m-%d %H:%M:%S%z') + timedelta(days=1))), forecast[forecasting_days-1], forecast[forecasting_days-1], forecast[forecasting_days-1], forecast[forecasting_days-1], 0]
-        df.to_csv(f'.\Exchange Rates\{c}-USD_p_osvm.csv', index=False)
+        df.to_csv(f'.\Exchange Rates\{c}-USD_p_osvm_test.csv', index=False)
         firsttime = False
 
 visualizeAndSave(cryptos, ['', '-USD_p_osvm.csv'], ['', '-USD_osvm.svg'])
-#Grafikonok!
