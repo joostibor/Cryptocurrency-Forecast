@@ -46,4 +46,5 @@ for c in cryptos:
         df.to_csv(f'.\Exchange Rates\{c}-USD_p_osvm.csv', index=False)
         firsttime = False
 
+visualizeAndSave(cryptos, ['', '-USD_p_osvm.csv'], ['', '-USD_osvm.svg'])
 #Grafikonok!
