@@ -235,6 +235,8 @@ def visualizeAndSave(cryptocurrencies, filenametags, svgfilenametags):
                 plt.title(f'{c} záró árfolyam előrejelzés SVM modellel')
             elif "grid" in filenametags[i]:
                 plt.title(f'{c} záró árfolyam előrejelzés GridSearch optimalizált SVM modellel')
+            elif "random" in filenametags[i]:
+                plt.title(f'{c} záró árfolyam előrejelzés RandomSearch optimalizált SVM modellel')
             else:
                 plt.title(f'{c} záró árfolyam előrejelzés LSTM-GRU hibrid modellel')
             plt.xticks(rotation=45, fontsize=8)
