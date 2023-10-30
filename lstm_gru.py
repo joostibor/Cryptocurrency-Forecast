@@ -250,7 +250,7 @@ def main():
     model_filenametags = ['_model_w_fdlogic.h5', '_model_wo_fdlogic.h5', '_model_olstm_w_fdlogic.h5', '_model_olstm_wo_fdlogic.h5'] 
     svg_filenametags = ['-USD_wfdl_test.svg', '-USD_wfdl.svg', '-USD_wofdl_test.svg', '-USD_wofdl.svg', '-USD_olstm_wfdl_test.svg',
                         '-USD_olstm_wfdl.svg', '-USD_olstm_wofdl_test.svg', '-USD_olstm_wofdl.svg']
-    refreshExchangeRate(cryptos) #Árfolyamadatok aktualizálása a futtatás napjáig
+    #refreshExchangeRate(cryptos) #Árfolyamadatok aktualizálása a futtatás napjáig
     makeModelLSTMGRU(cryptos, csv_filenametags, model_filenametags, True, False) #LSTM-GRU hibrid modell elkészítése fdlogic nélkül
     makeModelLSTMGRU(cryptos, csv_filenametags, model_filenametags, True, True) #LSTM-GRU hibrid modell elkészítése fdlogic-kal
     makeModelLSTM(cryptos, csv_filenametags, model_filenametags, True, False) #Kizárólag LSTM ágat tartalmazó modell elkészítése fdglogic nélkül
@@ -263,5 +263,5 @@ def main():
 
     visualizeAndSave(cryptos, csv_filenametags, svg_filenametags) #Megjelenítés és grafikon mentése
 
-if __name__ == "main":
-    main()
+#if __name__ == "main":
+main()
