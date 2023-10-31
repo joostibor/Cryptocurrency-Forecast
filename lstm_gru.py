@@ -263,5 +263,5 @@ def main():
 
     visualizeAndSave(cryptos, csv_filenametags, svg_filenametags) #Megjelenítés és grafikon mentése
 
-#if __name__ == "main":
-main()
+if __name__ == "main":
+    main()
