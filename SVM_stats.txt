@@ -1,0 +1,1560 @@
+
+----------------------SVM_BTC----------------------
+Modell pontossaga BTC: 0.8069871351609575
+Atlagos negyzetes elteres(%) BTC: 42.25748719839771
+Modell pontossaga BTC: 0.7808599413094286
+Atlagos negyzetes elteres(%) BTC: 36.221913875137766
+Modell pontossaga BTC: 0.7810895334840631
+Atlagos negyzetes elteres(%) BTC: 31.642676549269915
+Modell pontossaga BTC: 0.7665756313698656
+Atlagos negyzetes elteres(%) BTC: 34.07376782918307
+Modell pontossaga BTC: 0.7621454230814305
+Atlagos negyzetes elteres(%) BTC: 35.377511019126665
+Modell pontossaga BTC: 0.801262825746644
+Atlagos negyzetes elteres(%) BTC: 32.017570728240806
+Modell pontossaga BTC: 0.7734526566911513
+Atlagos negyzetes elteres(%) BTC: 31.50923384484279
+Modell pontossaga BTC: 0.7479918229761435
+Atlagos negyzetes elteres(%) BTC: 39.18081822478275
+Modell pontossaga BTC: 0.7781733076933616
+Atlagos negyzetes elteres(%) BTC: 30.97570667221398
+Modell pontossaga BTC: 0.7631896680423351
+Atlagos negyzetes elteres(%) BTC: 38.89490529718962
+Modell pontossaga BTC: 0.7616659836818995
+Atlagos negyzetes elteres(%) BTC: 31.73503764334622
+Modell pontossaga BTC: 0.7694122143808806
+Atlagos negyzetes elteres(%) BTC: 31.651706441290095
+Modell pontossaga BTC: 0.7805208768424571
+Atlagos negyzetes elteres(%) BTC: 31.97173156281031
+Modell pontossaga BTC: 0.7930295543536412
+Atlagos negyzetes elteres(%) BTC: 27.96521589864518
+Modell pontossaga BTC: 0.7854041905345817
+Atlagos negyzetes elteres(%) BTC: 29.886808088856526
+Modell pontossaga BTC: 0.7789367725154838
+Atlagos negyzetes elteres(%) BTC: 30.417404115693564
+Modell pontossaga BTC: 0.8069521455674877
+Atlagos negyzetes elteres(%) BTC: 32.548884530935936
+Modell pontossaga BTC: 0.7629899116190166
+Atlagos negyzetes elteres(%) BTC: 30.405750903145705
+Modell pontossaga BTC: 0.7559409513222812
+Atlagos negyzetes elteres(%) BTC: 30.51153202773656
+Modell pontossaga BTC: 0.7713475175075328
+Atlagos negyzetes elteres(%) BTC: 31.69819226969699
+Modell pontossaga BTC: 0.7712107443510053
+Atlagos negyzetes elteres(%) BTC: 31.08147012321865
+Modell pontossaga BTC: 0.8120962295695481
+Atlagos negyzetes elteres(%) BTC: 37.46204022639256
+Modell pontossaga BTC: 0.7790833872762742
+Atlagos negyzetes elteres(%) BTC: 34.8693456074102
+Modell pontossaga BTC: 0.7923444610297429
+Atlagos negyzetes elteres(%) BTC: 32.786258675160205
+Modell pontossaga BTC: 0.7615304042461938
+Atlagos negyzetes elteres(%) BTC: 30.0274862581272
+Modell pontossaga BTC: 0.7781121054912076
+Atlagos negyzetes elteres(%) BTC: 36.40039512670651
+Modell pontossaga BTC: 0.780140788714168
+Atlagos negyzetes elteres(%) BTC: 30.5916609619717
+Modell pontossaga BTC: 0.7859796241452153
+Atlagos negyzetes elteres(%) BTC: 34.967809771015915
+Modell pontossaga BTC: 0.7770530023025495
+Atlagos negyzetes elteres(%) BTC: 36.586782613358785
+Modell pontossaga BTC: 0.777158597967916
+Atlagos negyzetes elteres(%) BTC: 28.111186403008148
+
+----------------------SVM_ETH----------------------
+Modell pontossaga ETH: 0.8861804273013528
+Atlagos negyzetes elteres(%) ETH: 28.385427881330116
+Modell pontossaga ETH: 0.8753104273443193
+Atlagos negyzetes elteres(%) ETH: 32.6137985580963
+Modell pontossaga ETH: 0.8866308846968746
+Atlagos negyzetes elteres(%) ETH: 30.84369349048357
+Modell pontossaga ETH: 0.8879145247351414
+Atlagos negyzetes elteres(%) ETH: 30.64081325924396
+Modell pontossaga ETH: 0.9016128578374708
+Atlagos negyzetes elteres(%) ETH: 28.49187242708393
+Modell pontossaga ETH: 0.8923895608174306
+Atlagos negyzetes elteres(%) ETH: 29.550461277139554
+Modell pontossaga ETH: 0.8643897130753715
+Atlagos negyzetes elteres(%) ETH: 31.55839538206129
+Modell pontossaga ETH: 0.8821697674975028
+Atlagos negyzetes elteres(%) ETH: 30.018962211549756
+Modell pontossaga ETH: 0.8793738239184501
+Atlagos negyzetes elteres(%) ETH: 28.770448954530075
+Modell pontossaga ETH: 0.8744546793214726
+Atlagos negyzetes elteres(%) ETH: 30.892639567486935
+Modell pontossaga ETH: 0.8980080384970084
+Atlagos negyzetes elteres(%) ETH: 30.03892679171349
+Modell pontossaga ETH: 0.8997037314980787
+Atlagos negyzetes elteres(%) ETH: 32.19973730017555
+Modell pontossaga ETH: 0.8951180999474138
+Atlagos negyzetes elteres(%) ETH: 29.718219386595703
+Modell pontossaga ETH: 0.8935576262970096
+Atlagos negyzetes elteres(%) ETH: 31.631500354803233
+Modell pontossaga ETH: 0.8926182374425061
+Atlagos negyzetes elteres(%) ETH: 28.644384201310608
+Modell pontossaga ETH: 0.8968721013277198
+Atlagos negyzetes elteres(%) ETH: 28.32359339477148
+Modell pontossaga ETH: 0.8861030320237241
+Atlagos negyzetes elteres(%) ETH: 29.719383781654017
+Modell pontossaga ETH: 0.8926745978198962
+Atlagos negyzetes elteres(%) ETH: 29.877392785436157
+Modell pontossaga ETH: 0.8827976902869699
+Atlagos negyzetes elteres(%) ETH: 30.91120980888613
+Modell pontossaga ETH: 0.8830214981080625
+Atlagos negyzetes elteres(%) ETH: 28.75969733428252
+Modell pontossaga ETH: 0.8902847846691562
+Atlagos negyzetes elteres(%) ETH: 32.5967640790534
+Modell pontossaga ETH: 0.8704750262952622
+Atlagos negyzetes elteres(%) ETH: 29.986250875379334
+Modell pontossaga ETH: 0.8776131885521656
+Atlagos negyzetes elteres(%) ETH: 31.588940189786697
+Modell pontossaga ETH: 0.889550537767726
+Atlagos negyzetes elteres(%) ETH: 30.215667223068394
+Modell pontossaga ETH: 0.8765747513553144
+Atlagos negyzetes elteres(%) ETH: 32.24980098013625
+Modell pontossaga ETH: 0.8884327173107549
+Atlagos negyzetes elteres(%) ETH: 28.203355539694048
+Modell pontossaga ETH: 0.8800519647805678
+Atlagos negyzetes elteres(%) ETH: 29.689692493894405
+Modell pontossaga ETH: 0.8853877463566446
+Atlagos negyzetes elteres(%) ETH: 28.941612129524678
+Modell pontossaga ETH: 0.8604619748132574
+Atlagos negyzetes elteres(%) ETH: 29.0781680893737
+Modell pontossaga ETH: 0.8755387005670097
+Atlagos negyzetes elteres(%) ETH: 28.631753305206686
+
+----------------------SVM_BNB----------------------
+Modell pontossaga BNB: 0.8644778002430901
+Atlagos negyzetes elteres(%) BNB: 30.611431246614696
+Modell pontossaga BNB: 0.8884106686981456
+Atlagos negyzetes elteres(%) BNB: 30.710129676946423
+Modell pontossaga BNB: 0.8889411073011918
+Atlagos negyzetes elteres(%) BNB: 31.752460655428532
+Modell pontossaga BNB: 0.8759208722521222
+Atlagos negyzetes elteres(%) BNB: 29.428667842283907
+Modell pontossaga BNB: 0.8922629118709302
+Atlagos negyzetes elteres(%) BNB: 31.03151331483231
+Modell pontossaga BNB: 0.9112182085148895
+Atlagos negyzetes elteres(%) BNB: 32.333997125939675
+Modell pontossaga BNB: 0.8716057589551887
+Atlagos negyzetes elteres(%) BNB: 30.85238811721105
+Modell pontossaga BNB: 0.8773595184568086
+Atlagos negyzetes elteres(%) BNB: 29.60220615730618
+Modell pontossaga BNB: 0.8810249518218201
+Atlagos negyzetes elteres(%) BNB: 29.41869601481254
+Modell pontossaga BNB: 0.8891505458374578
+Atlagos negyzetes elteres(%) BNB: 27.376089499115842
+Modell pontossaga BNB: 0.8818100552920559
+Atlagos negyzetes elteres(%) BNB: 28.09109554483588
+Modell pontossaga BNB: 0.8814370088527592
+Atlagos negyzetes elteres(%) BNB: 29.814333621031945
+Modell pontossaga BNB: 0.8914723554044836
+Atlagos negyzetes elteres(%) BNB: 33.00520584647859
+Modell pontossaga BNB: 0.8847332706793727
+Atlagos negyzetes elteres(%) BNB: 32.03898146124752
+Modell pontossaga BNB: 0.8776905303090545
+Atlagos negyzetes elteres(%) BNB: 35.46038131990235
+Modell pontossaga BNB: 0.8809592187845807
+Atlagos negyzetes elteres(%) BNB: 31.54400016280046
+Modell pontossaga BNB: 0.8750421832562839
+Atlagos negyzetes elteres(%) BNB: 28.382005427012153
+Modell pontossaga BNB: 0.8843299178735321
+Atlagos negyzetes elteres(%) BNB: 34.58146154492181
+Modell pontossaga BNB: 0.8653885270601691
+Atlagos negyzetes elteres(%) BNB: 31.091014834132935
+Modell pontossaga BNB: 0.8892506068464399
+Atlagos negyzetes elteres(%) BNB: 32.06615417362619
+Modell pontossaga BNB: 0.8664736735159457
+Atlagos negyzetes elteres(%) BNB: 32.87831388818222
+Modell pontossaga BNB: 0.8786551915222202
+Atlagos negyzetes elteres(%) BNB: 30.841830358491656
+Modell pontossaga BNB: 0.8684921656466436
+Atlagos negyzetes elteres(%) BNB: 31.514471712357828
+Modell pontossaga BNB: 0.8917692232832907
+Atlagos negyzetes elteres(%) BNB: 28.364306118533932
+Modell pontossaga BNB: 0.8834837875135805
+Atlagos negyzetes elteres(%) BNB: 31.38036558653699
+Modell pontossaga BNB: 0.8794883039584536
+Atlagos negyzetes elteres(%) BNB: 28.008426949153787
+Modell pontossaga BNB: 0.8975641214969259
+Atlagos negyzetes elteres(%) BNB: 31.127403174074725
+Modell pontossaga BNB: 0.8887944816790632
+Atlagos negyzetes elteres(%) BNB: 31.375547739779776
+Modell pontossaga BNB: 0.9142359695945752
+Atlagos negyzetes elteres(%) BNB: 27.644016660362098
+Modell pontossaga BNB: 0.8881333319150437
+Atlagos negyzetes elteres(%) BNB: 28.573573471760007
+
+----------------------SVM_DOGE----------------------
+Modell pontossaga DOGE: -0.013913768266932802
+Atlagos negyzetes elteres(%) DOGE: 2624.2389532051393
+Modell pontossaga DOGE: 0.04243613524174372
+Atlagos negyzetes elteres(%) DOGE: 2700.195496924904
+Modell pontossaga DOGE: 0.04223680392083562
+Atlagos negyzetes elteres(%) DOGE: 2659.821281052038
+Modell pontossaga DOGE: -0.009236339741342414
+Atlagos negyzetes elteres(%) DOGE: 2759.451473421065
+Modell pontossaga DOGE: 0.01745179042955103
+Atlagos negyzetes elteres(%) DOGE: 2608.314715329693
+Modell pontossaga DOGE: -0.0880355643789712
+Atlagos negyzetes elteres(%) DOGE: 2652.979020628063
+Modell pontossaga DOGE: -0.006256644584627047
+Atlagos negyzetes elteres(%) DOGE: 2628.000738566509
+Modell pontossaga DOGE: -0.05318551436648189
+Atlagos negyzetes elteres(%) DOGE: 2681.8402804928246
+Modell pontossaga DOGE: 0.06949856838372359
+Atlagos negyzetes elteres(%) DOGE: 2672.016490851766
+Modell pontossaga DOGE: 0.05983319203886339
+Atlagos negyzetes elteres(%) DOGE: 2687.970843139295
+Modell pontossaga DOGE: 0.013166521046544366
+Atlagos negyzetes elteres(%) DOGE: 2690.8238947898076
+Modell pontossaga DOGE: -0.10359544138992072
+Atlagos negyzetes elteres(%) DOGE: 2674.6303004264782
+Modell pontossaga DOGE: 0.07609698681306909
+Atlagos negyzetes elteres(%) DOGE: 2679.313726089256
+Modell pontossaga DOGE: -0.10934742854877189
+Atlagos negyzetes elteres(%) DOGE: 2603.7057628100206
+Modell pontossaga DOGE: 0.028223620960192375
+Atlagos negyzetes elteres(%) DOGE: 2493.473359194819
+Modell pontossaga DOGE: 0.08358322794278383
+Atlagos negyzetes elteres(%) DOGE: 2607.0715523195
+Modell pontossaga DOGE: 0.055035220922086125
+Atlagos negyzetes elteres(%) DOGE: 2692.010020908226
+Modell pontossaga DOGE: -0.09339771710335332
+Atlagos negyzetes elteres(%) DOGE: 2692.9736701235106
+Modell pontossaga DOGE: 0.03477380052628287
+Atlagos negyzetes elteres(%) DOGE: 2624.5677716874607
+Modell pontossaga DOGE: -0.06722079693450378
+Atlagos negyzetes elteres(%) DOGE: 2540.398583883359
+Modell pontossaga DOGE: -0.04218617014966086
+Atlagos negyzetes elteres(%) DOGE: 2617.830324261054
+Modell pontossaga DOGE: 0.016851760228384416
+Atlagos negyzetes elteres(%) DOGE: 2586.542377794831
+Modell pontossaga DOGE: -0.02992479744588139
+Atlagos negyzetes elteres(%) DOGE: 2831.073676954422
+Modell pontossaga DOGE: -0.016059066828984614
+Atlagos negyzetes elteres(%) DOGE: 2713.3424114068516
+Modell pontossaga DOGE: -0.033998000058425015
+Atlagos negyzetes elteres(%) DOGE: 2560.447449771476
+Modell pontossaga DOGE: -0.016407899580746177
+Atlagos negyzetes elteres(%) DOGE: 2617.147277968913
+Modell pontossaga DOGE: 0.02565566997637625
+Atlagos negyzetes elteres(%) DOGE: 2553.1814479282916
+Modell pontossaga DOGE: 0.030772298069265847
+Atlagos negyzetes elteres(%) DOGE: 2714.1027348471484
+Modell pontossaga DOGE: 0.06437879342441133
+Atlagos negyzetes elteres(%) DOGE: 2544.1001087343193
+Modell pontossaga DOGE: 0.08962646321093937
+Atlagos negyzetes elteres(%) DOGE: 2544.6269590117604
+
+----------------------SVM_LTC----------------------
+Modell pontossaga LTC: 0.7646237044206968
+Atlagos negyzetes elteres(%) LTC: 29.929036206834493
+Modell pontossaga LTC: 0.7496500172728644
+Atlagos negyzetes elteres(%) LTC: 29.559311629305313
+Modell pontossaga LTC: 0.7805738997200355
+Atlagos negyzetes elteres(%) LTC: 27.384186353818983
+Modell pontossaga LTC: 0.7023873366422728
+Atlagos negyzetes elteres(%) LTC: 29.523226530449897
+Modell pontossaga LTC: 0.7669884361134706
+Atlagos negyzetes elteres(%) LTC: 30.5615908985329
+Modell pontossaga LTC: 0.7210144946606611
+Atlagos negyzetes elteres(%) LTC: 27.90274974359107
+Modell pontossaga LTC: 0.7595731861440262
+Atlagos negyzetes elteres(%) LTC: 28.253714114338894
+Modell pontossaga LTC: 0.7403533725255335
+Atlagos negyzetes elteres(%) LTC: 29.624557146050257
+Modell pontossaga LTC: 0.7438806410239999
+Atlagos negyzetes elteres(%) LTC: 29.217886875438225
+Modell pontossaga LTC: 0.817900293263669
+Atlagos negyzetes elteres(%) LTC: 30.142730057615307
+Modell pontossaga LTC: 0.7306262500355523
+Atlagos negyzetes elteres(%) LTC: 27.58248972425008
+Modell pontossaga LTC: 0.7826241247616906
+Atlagos negyzetes elteres(%) LTC: 27.056022093883293
+Modell pontossaga LTC: 0.8192238476974507
+Atlagos negyzetes elteres(%) LTC: 27.333036914469076
+Modell pontossaga LTC: 0.7887196079641974
+Atlagos negyzetes elteres(%) LTC: 27.153882094302407
+Modell pontossaga LTC: 0.7810763807987184
+Atlagos negyzetes elteres(%) LTC: 26.53467380418131
+Modell pontossaga LTC: 0.8169096476359787
+Atlagos negyzetes elteres(%) LTC: 26.670132723340856
+Modell pontossaga LTC: 0.8347056345015313
+Atlagos negyzetes elteres(%) LTC: 28.71491260068626
+Modell pontossaga LTC: 0.8050969792888265
+Atlagos negyzetes elteres(%) LTC: 25.88568477994095
+Modell pontossaga LTC: 0.7886138667596656
+Atlagos negyzetes elteres(%) LTC: 28.939119809135317
+Modell pontossaga LTC: 0.7991442046005015
+Atlagos negyzetes elteres(%) LTC: 27.509387799396773
+Modell pontossaga LTC: 0.7918513975982592
+Atlagos negyzetes elteres(%) LTC: 26.31023202529079
+Modell pontossaga LTC: 0.7643797419113726
+Atlagos negyzetes elteres(%) LTC: 26.15720913892733
+Modell pontossaga LTC: 0.8208840448594394
+Atlagos negyzetes elteres(%) LTC: 28.201780162696693
+Modell pontossaga LTC: 0.8012764600170998
+Atlagos negyzetes elteres(%) LTC: 26.832670627546122
+Modell pontossaga LTC: 0.7665243396638937
+Atlagos negyzetes elteres(%) LTC: 27.79084545813114
+Modell pontossaga LTC: 0.7722977468260432
+Atlagos negyzetes elteres(%) LTC: 26.982208700356342
+Modell pontossaga LTC: 0.755556535405897
+Atlagos negyzetes elteres(%) LTC: 28.05974013799275
+Modell pontossaga LTC: 0.7542236354760632
+Atlagos negyzetes elteres(%) LTC: 27.980276295709878
+Modell pontossaga LTC: 0.7812003827814304
+Atlagos negyzetes elteres(%) LTC: 26.913396271842256
+Modell pontossaga LTC: 0.8117016659555533
+Atlagos negyzetes elteres(%) LTC: 27.094672864178637
+
+----------------------SVM_w_grid_BTC----------------------
+Legjobb C: 1000, legjobb gamma: 1e-05
+Modell pontossaga BTC: 0.7690416084362824
+Atlagos negyzetes elteres(%) BTC: 33.93696294181092
+Modell pontossaga BTC: 0.7468487189943274
+Atlagos negyzetes elteres(%) BTC: 30.255314675618127
+Modell pontossaga BTC: 0.7903575037664866
+Atlagos negyzetes elteres(%) BTC: 32.95188881834
+Modell pontossaga BTC: 0.7758892598322866
+Atlagos negyzetes elteres(%) BTC: 30.402589583489647
+Modell pontossaga BTC: 0.7678051243350319
+Atlagos negyzetes elteres(%) BTC: 32.545699558442195
+Modell pontossaga BTC: 0.8018634181113056
+Atlagos negyzetes elteres(%) BTC: 29.483746424717083
+Modell pontossaga BTC: 0.7951076091055076
+Atlagos negyzetes elteres(%) BTC: 28.866153157026766
+Modell pontossaga BTC: 0.761807842510272
+Atlagos negyzetes elteres(%) BTC: 37.28169698459135
+Modell pontossaga BTC: 0.7931779637055848
+Atlagos negyzetes elteres(%) BTC: 41.4891525349354
+Modell pontossaga BTC: 0.7700789355117095
+Atlagos negyzetes elteres(%) BTC: 36.58208270858096
+Modell pontossaga BTC: 0.81965430757037
+Atlagos negyzetes elteres(%) BTC: 29.74601327981056
+Modell pontossaga BTC: 0.8147591501134859
+Atlagos negyzetes elteres(%) BTC: 32.763078863280896
+Modell pontossaga BTC: 0.797653718668685
+Atlagos negyzetes elteres(%) BTC: 33.75709089802251
+Modell pontossaga BTC: 0.7484795178193664
+Atlagos negyzetes elteres(%) BTC: 32.48658597581308
+Modell pontossaga BTC: 0.763717605179239
+Atlagos negyzetes elteres(%) BTC: 37.40464419870448
+Modell pontossaga BTC: 0.7797881122718335
+Atlagos negyzetes elteres(%) BTC: 36.68969572909364
+Modell pontossaga BTC: 0.7733071458424116
+Atlagos negyzetes elteres(%) BTC: 33.376024776049036
+Modell pontossaga BTC: 0.7750758926622446
+Atlagos negyzetes elteres(%) BTC: 34.87560527016943
+Modell pontossaga BTC: 0.7846844988206979
+Atlagos negyzetes elteres(%) BTC: 34.4170277789981
+Modell pontossaga BTC: 0.7862017224811948
+Atlagos negyzetes elteres(%) BTC: 38.3143608214081
+Modell pontossaga BTC: 0.7907036257188151
+Atlagos negyzetes elteres(%) BTC: 38.36930250449387
+Modell pontossaga BTC: 0.7670861892956025
+Atlagos negyzetes elteres(%) BTC: 35.85480294336438
+Modell pontossaga BTC: 0.764588760724031
+Atlagos negyzetes elteres(%) BTC: 35.15133294049282
+Modell pontossaga BTC: 0.7614784756437778
+Atlagos negyzetes elteres(%) BTC: 34.879705151546794
+Modell pontossaga BTC: 0.8084571119575781
+Atlagos negyzetes elteres(%) BTC: 32.29572615600759
+Modell pontossaga BTC: 0.7486858351842878
+Atlagos negyzetes elteres(%) BTC: 34.67506652971972
+Modell pontossaga BTC: 0.7604547750125608
+Atlagos negyzetes elteres(%) BTC: 30.86443758938439
+Modell pontossaga BTC: 0.7815762231251087
+Atlagos negyzetes elteres(%) BTC: 29.79673221367157
+Modell pontossaga BTC: 0.7475379622268321
+Atlagos negyzetes elteres(%) BTC: 32.78346148237498
+Modell pontossaga BTC: 0.8054049718285992
+Atlagos negyzetes elteres(%) BTC: 30.455398271200274
+
+----------------------SVM_w_grid_ETH----------------------
+Legjobb C: 500, legjobb gamma: 1e-05
+Modell pontossaga ETH: 0.8819139650173035
+Atlagos negyzetes elteres(%) ETH: 28.278727412707237
+Modell pontossaga ETH: 0.8714136586034921
+Atlagos negyzetes elteres(%) ETH: 32.578843914192085
+Modell pontossaga ETH: 0.8570570213407798
+Atlagos negyzetes elteres(%) ETH: 33.43155043496198
+Modell pontossaga ETH: 0.8695675889571355
+Atlagos negyzetes elteres(%) ETH: 31.050499215675213
+Modell pontossaga ETH: 0.8745655203383941
+Atlagos negyzetes elteres(%) ETH: 30.033150224064393
+Modell pontossaga ETH: 0.8901434883151296
+Atlagos negyzetes elteres(%) ETH: 32.739701956082484
+Modell pontossaga ETH: 0.8880621805153407
+Atlagos negyzetes elteres(%) ETH: 29.851492192217645
+Modell pontossaga ETH: 0.8795656605020861
+Atlagos negyzetes elteres(%) ETH: 30.235923472013614
+Modell pontossaga ETH: 0.9054826638449724
+Atlagos negyzetes elteres(%) ETH: 27.909067551973965
+Modell pontossaga ETH: 0.9012073964397611
+Atlagos negyzetes elteres(%) ETH: 28.68540585201405
+Modell pontossaga ETH: 0.8821689555275348
+Atlagos negyzetes elteres(%) ETH: 29.878691783787115
+Modell pontossaga ETH: 0.873560299665967
+Atlagos negyzetes elteres(%) ETH: 29.588241166915775
+Modell pontossaga ETH: 0.8801092634166288
+Atlagos negyzetes elteres(%) ETH: 30.21136077026313
+Modell pontossaga ETH: 0.8790872787375283
+Atlagos negyzetes elteres(%) ETH: 27.156946827410927
+Modell pontossaga ETH: 0.8605414347678797
+Atlagos negyzetes elteres(%) ETH: 30.63832005550045
+Modell pontossaga ETH: 0.8956839316609282
+Atlagos negyzetes elteres(%) ETH: 28.53255096595218
+Modell pontossaga ETH: 0.8956561844801204
+Atlagos negyzetes elteres(%) ETH: 30.382703607856502
+Modell pontossaga ETH: 0.8938579859239517
+Atlagos negyzetes elteres(%) ETH: 31.26108032271456
+Modell pontossaga ETH: 0.8768748452092391
+Atlagos negyzetes elteres(%) ETH: 29.839846630991595
+Modell pontossaga ETH: 0.8905920244460497
+Atlagos negyzetes elteres(%) ETH: 28.72425102392404
+Modell pontossaga ETH: 0.8842529428853039
+Atlagos negyzetes elteres(%) ETH: 31.08965701819928
+Modell pontossaga ETH: 0.8652463345109941
+Atlagos negyzetes elteres(%) ETH: 32.834812318172865
+Modell pontossaga ETH: 0.8819878421069247
+Atlagos negyzetes elteres(%) ETH: 28.111687563182848
+Modell pontossaga ETH: 0.8815714368556877
+Atlagos negyzetes elteres(%) ETH: 30.8822730083195
+Modell pontossaga ETH: 0.8872093191966414
+Atlagos negyzetes elteres(%) ETH: 32.06816452677372
+Modell pontossaga ETH: 0.8867320746097143
+Atlagos negyzetes elteres(%) ETH: 28.76782134896061
+Modell pontossaga ETH: 0.8972581506944328
+Atlagos negyzetes elteres(%) ETH: 31.02071179150738
+Modell pontossaga ETH: 0.8691205703926463
+Atlagos negyzetes elteres(%) ETH: 29.960487879267312
+Modell pontossaga ETH: 0.8863865543406132
+Atlagos negyzetes elteres(%) ETH: 29.73542429083249
+Modell pontossaga ETH: 0.8884365710047883
+Atlagos negyzetes elteres(%) ETH: 28.95122911895499
+
+----------------------SVM_w_grid_BNB----------------------
+Legjobb C: 100, legjobb gamma: 0.001
+Modell pontossaga BNB: 0.8869099213182658
+Atlagos negyzetes elteres(%) BNB: 32.291973470952854
+Modell pontossaga BNB: 0.8710712707347377
+Atlagos negyzetes elteres(%) BNB: 30.623040907738897
+Modell pontossaga BNB: 0.883909173007833
+Atlagos negyzetes elteres(%) BNB: 29.465356051160303
+Modell pontossaga BNB: 0.9013146943077406
+Atlagos negyzetes elteres(%) BNB: 27.188389203595005
+Modell pontossaga BNB: 0.8964260618876563
+Atlagos negyzetes elteres(%) BNB: 30.422208231588897
+Modell pontossaga BNB: 0.9085075114827048
+Atlagos negyzetes elteres(%) BNB: 32.87337080576151
+Modell pontossaga BNB: 0.9142261319903944
+Atlagos negyzetes elteres(%) BNB: 28.2644651106035
+Modell pontossaga BNB: 0.8958043961658724
+Atlagos negyzetes elteres(%) BNB: 28.798518461231737
+Modell pontossaga BNB: 0.8942703085324887
+Atlagos negyzetes elteres(%) BNB: 31.95530036081435
+Modell pontossaga BNB: 0.8888525501181185
+Atlagos negyzetes elteres(%) BNB: 37.689451093108204
+Modell pontossaga BNB: 0.8835292191285986
+Atlagos negyzetes elteres(%) BNB: 27.91787759837679
+Modell pontossaga BNB: 0.8859693859956351
+Atlagos negyzetes elteres(%) BNB: 28.59871038161946
+Modell pontossaga BNB: 0.8787113856314119
+Atlagos negyzetes elteres(%) BNB: 35.05111137560145
+Modell pontossaga BNB: 0.8997066186826645
+Atlagos negyzetes elteres(%) BNB: 30.479486437882606
+Modell pontossaga BNB: 0.8781776047376201
+Atlagos negyzetes elteres(%) BNB: 29.46680392451542
+Modell pontossaga BNB: 0.9072504673010686
+Atlagos negyzetes elteres(%) BNB: 28.19973748557555
+Modell pontossaga BNB: 0.9035332722098065
+Atlagos negyzetes elteres(%) BNB: 28.87120818883055
+Modell pontossaga BNB: 0.9119610037213839
+Atlagos negyzetes elteres(%) BNB: 28.84499968485424
+Modell pontossaga BNB: 0.898949362696674
+Atlagos negyzetes elteres(%) BNB: 29.45824163521273
+Modell pontossaga BNB: 0.890754955450155
+Atlagos negyzetes elteres(%) BNB: 30.27547979270467
+Modell pontossaga BNB: 0.8841173801373257
+Atlagos negyzetes elteres(%) BNB: 28.74383758647366
+Modell pontossaga BNB: 0.8885750173168137
+Atlagos negyzetes elteres(%) BNB: 30.727962625213674
+Modell pontossaga BNB: 0.8944293511085397
+Atlagos negyzetes elteres(%) BNB: 27.759412210292695
+Modell pontossaga BNB: 0.8701147566576193
+Atlagos negyzetes elteres(%) BNB: 31.09081469355321
+Modell pontossaga BNB: 0.8740689154984742
+Atlagos negyzetes elteres(%) BNB: 32.8922103404631
+Modell pontossaga BNB: 0.8988678095912647
+Atlagos negyzetes elteres(%) BNB: 30.374593087268863
+Modell pontossaga BNB: 0.8924047944592263
+Atlagos negyzetes elteres(%) BNB: 35.90165612706934
+Modell pontossaga BNB: 0.8947069501801378
+Atlagos negyzetes elteres(%) BNB: 31.836702346932416
+Modell pontossaga BNB: 0.8988256265314624
+Atlagos negyzetes elteres(%) BNB: 28.856481974948238
+Modell pontossaga BNB: 0.893340427521346
+Atlagos negyzetes elteres(%) BNB: 28.599109351492302
+
+----------------------SVM_w_grid_DOGE----------------------
+Legjobb C: 1000, legjobb gamma: 10
+Modell pontossaga DOGE: 0.17027017509731035
+Atlagos negyzetes elteres(%) DOGE: 1916.3064057114805
+Modell pontossaga DOGE: 0.13197661874729527
+Atlagos negyzetes elteres(%) DOGE: 2030.5733567876327
+Modell pontossaga DOGE: 0.15047604684977656
+Atlagos negyzetes elteres(%) DOGE: 2050.9706239068832
+Modell pontossaga DOGE: 0.05982853037362523
+Atlagos negyzetes elteres(%) DOGE: 2071.8415565538903
+Modell pontossaga DOGE: 0.22944716977523272
+Atlagos negyzetes elteres(%) DOGE: 1728.6706785887536
+Modell pontossaga DOGE: 0.19972870762767325
+Atlagos negyzetes elteres(%) DOGE: 1884.8561287530515
+Modell pontossaga DOGE: 0.17631736270107778
+Atlagos negyzetes elteres(%) DOGE: 2003.5238045935753
+Modell pontossaga DOGE: 0.2539479259385439
+Atlagos negyzetes elteres(%) DOGE: 1864.5464233512366
+Modell pontossaga DOGE: 0.16058737710071402
+Atlagos negyzetes elteres(%) DOGE: 1986.0585194232954
+Modell pontossaga DOGE: 0.25121628121602657
+Atlagos negyzetes elteres(%) DOGE: 1840.99376032776
+Modell pontossaga DOGE: 0.2315892496954156
+Atlagos negyzetes elteres(%) DOGE: 1985.9090670205615
+Modell pontossaga DOGE: 0.09907262248438875
+Atlagos negyzetes elteres(%) DOGE: 2003.415631624108
+Modell pontossaga DOGE: 0.1702559943930133
+Atlagos negyzetes elteres(%) DOGE: 2028.7846415782426
+Modell pontossaga DOGE: 0.1518378993382521
+Atlagos negyzetes elteres(%) DOGE: 1827.3134746834878
+Modell pontossaga DOGE: 0.2338042986468819
+Atlagos negyzetes elteres(%) DOGE: 1966.8773998903923
+Modell pontossaga DOGE: 0.13059085503112067
+Atlagos negyzetes elteres(%) DOGE: 1838.415006607061
+Modell pontossaga DOGE: 0.1848723171187947
+Atlagos negyzetes elteres(%) DOGE: 1987.064120971447
+Modell pontossaga DOGE: 0.20315083747562934
+Atlagos negyzetes elteres(%) DOGE: 1727.8715872865068
+Modell pontossaga DOGE: 0.285332908232949
+Atlagos negyzetes elteres(%) DOGE: 1888.5954639768033
+Modell pontossaga DOGE: 0.16111341972844206
+Atlagos negyzetes elteres(%) DOGE: 1940.2103040084273
+Modell pontossaga DOGE: 0.26551307663660595
+Atlagos negyzetes elteres(%) DOGE: 1793.6114201592407
+Modell pontossaga DOGE: 0.16278964692573128
+Atlagos negyzetes elteres(%) DOGE: 1789.9310311440931
+Modell pontossaga DOGE: -0.05366619377148196
+Atlagos negyzetes elteres(%) DOGE: 1796.274800026941
+Modell pontossaga DOGE: 0.2563325239896841
+Atlagos negyzetes elteres(%) DOGE: 1714.4076414175918
+Modell pontossaga DOGE: 0.19849885735451145
+Atlagos negyzetes elteres(%) DOGE: 1809.8276688892681
+Modell pontossaga DOGE: 0.16599533289558155
+Atlagos negyzetes elteres(%) DOGE: 1926.7200715021388
+Modell pontossaga DOGE: 0.26286266641721123
+Atlagos negyzetes elteres(%) DOGE: 2057.4645816151724
+Modell pontossaga DOGE: 0.34063964968686467
+Atlagos negyzetes elteres(%) DOGE: 1687.2322147963412
+Modell pontossaga DOGE: 0.24055707271301174
+Atlagos negyzetes elteres(%) DOGE: 1787.0877716761393
+Modell pontossaga DOGE: 0.3330506100626217
+Atlagos negyzetes elteres(%) DOGE: 1801.5913347623957
+
+----------------------SVM_w_grid_LTC----------------------
+Legjobb C: 50, legjobb gamma: 0.0001
+Modell pontossaga LTC: 0.7739522092528545
+Atlagos negyzetes elteres(%) LTC: 29.06245213812044
+Modell pontossaga LTC: 0.8067161496102521
+Atlagos negyzetes elteres(%) LTC: 27.429580714854428
+Modell pontossaga LTC: 0.817435175222826
+Atlagos negyzetes elteres(%) LTC: 26.937629117083894
+Modell pontossaga LTC: 0.7576762615059162
+Atlagos negyzetes elteres(%) LTC: 28.706499767354526
+Modell pontossaga LTC: 0.7683425058190833
+Atlagos negyzetes elteres(%) LTC: 27.534799437603347
+Modell pontossaga LTC: 0.7731178453038329
+Atlagos negyzetes elteres(%) LTC: 28.390991170452807
+Modell pontossaga LTC: 0.8016959892681792
+Atlagos negyzetes elteres(%) LTC: 28.504142968355428
+Modell pontossaga LTC: 0.7723655005503436
+Atlagos negyzetes elteres(%) LTC: 27.63885376235801
+Modell pontossaga LTC: 0.8008924776128798
+Atlagos negyzetes elteres(%) LTC: 26.759815525627594
+Modell pontossaga LTC: 0.746466659320008
+Atlagos negyzetes elteres(%) LTC: 26.964332828046583
+Modell pontossaga LTC: 0.8144961738065594
+Atlagos negyzetes elteres(%) LTC: 27.94366552426457
+Modell pontossaga LTC: 0.78750213438214
+Atlagos negyzetes elteres(%) LTC: 25.763550516471355
+Modell pontossaga LTC: 0.7923671852950105
+Atlagos negyzetes elteres(%) LTC: 28.58311160212712
+Modell pontossaga LTC: 0.7381076845952504
+Atlagos negyzetes elteres(%) LTC: 29.677962948434423
+Modell pontossaga LTC: 0.7285349341804209
+Atlagos negyzetes elteres(%) LTC: 28.869153068114816
+Modell pontossaga LTC: 0.7590679389756453
+Atlagos negyzetes elteres(%) LTC: 26.374872402534333
+Modell pontossaga LTC: 0.7937966165412211
+Atlagos negyzetes elteres(%) LTC: 28.625458680223076
+Modell pontossaga LTC: 0.7722189219986826
+Atlagos negyzetes elteres(%) LTC: 29.545514098249186
+Modell pontossaga LTC: 0.8185291807091157
+Atlagos negyzetes elteres(%) LTC: 28.29312026020559
+Modell pontossaga LTC: 0.7691667932719323
+Atlagos negyzetes elteres(%) LTC: 28.372697702011045
+Modell pontossaga LTC: 0.8165424237884749
+Atlagos negyzetes elteres(%) LTC: 27.646092153539854
+Modell pontossaga LTC: 0.7946436066797119
+Atlagos negyzetes elteres(%) LTC: 27.161140365302312
+Modell pontossaga LTC: 0.8067937662841025
+Atlagos negyzetes elteres(%) LTC: 29.35730343263873
+Modell pontossaga LTC: 0.7768476467598112
+Atlagos negyzetes elteres(%) LTC: 28.62996078856776
+Modell pontossaga LTC: 0.7894876943362382
+Atlagos negyzetes elteres(%) LTC: 27.009317440785264
+Modell pontossaga LTC: 0.8165731566099578
+Atlagos negyzetes elteres(%) LTC: 27.563204087497883
+Modell pontossaga LTC: 0.786000649117566
+Atlagos negyzetes elteres(%) LTC: 28.173843401099436
+Modell pontossaga LTC: 0.75120762668412
+Atlagos negyzetes elteres(%) LTC: 28.936111127898005
+Modell pontossaga LTC: 0.7729703651069393
+Atlagos negyzetes elteres(%) LTC: 29.495516795157794
+Modell pontossaga LTC: 0.7073490349909969
+Atlagos negyzetes elteres(%) LTC: 28.025916990599086
+
+----------------------SVM_w_random_BTC----------------------
+Legjobb C: 428.88575631349767, legjobb gamma: 0.07723951237394859
+Modell pontossaga BTC: -0.0819776764327329
+Atlagos negyzetes elteres(%) BTC: 511.5065187539865
+Modell pontossaga BTC: -0.09102522840687222
+Atlagos negyzetes elteres(%) BTC: 483.47566353411446
+Modell pontossaga BTC: -0.09525638961612515
+Atlagos negyzetes elteres(%) BTC: 506.92495131205504
+Modell pontossaga BTC: -0.06392420333167825
+Atlagos negyzetes elteres(%) BTC: 464.65817467307085
+Modell pontossaga BTC: -0.0965353655311707
+Atlagos negyzetes elteres(%) BTC: 404.55144622933864
+Modell pontossaga BTC: -0.1497439105327616
+Atlagos negyzetes elteres(%) BTC: 484.4609835098236
+Modell pontossaga BTC: -0.03875105723908834
+Atlagos negyzetes elteres(%) BTC: 554.5864175479337
+Modell pontossaga BTC: -0.0634997727275377
+Atlagos negyzetes elteres(%) BTC: 514.3891188925932
+Modell pontossaga BTC: -0.05354457468580209
+Atlagos negyzetes elteres(%) BTC: 510.03268905745324
+Modell pontossaga BTC: -0.06488008452234872
+Atlagos negyzetes elteres(%) BTC: 528.2670041642579
+Modell pontossaga BTC: -0.04893040957775474
+Atlagos negyzetes elteres(%) BTC: 512.4449029116596
+Modell pontossaga BTC: -0.058284855466161245
+Atlagos negyzetes elteres(%) BTC: 466.60298679660013
+Modell pontossaga BTC: -0.07245874748295789
+Atlagos negyzetes elteres(%) BTC: 533.7201504813958
+Modell pontossaga BTC: -0.08385546678449951
+Atlagos negyzetes elteres(%) BTC: 518.147182871433
+Modell pontossaga BTC: -0.11373057486586213
+Atlagos negyzetes elteres(%) BTC: 432.58580712843974
+Modell pontossaga BTC: -0.07005325007279928
+Atlagos negyzetes elteres(%) BTC: 548.8103178097833
+Modell pontossaga BTC: -0.10929928298722658
+Atlagos negyzetes elteres(%) BTC: 420.9932608545998
+Modell pontossaga BTC: -0.08500279050034609
+Atlagos negyzetes elteres(%) BTC: 429.9936454755763
+Modell pontossaga BTC: -0.07767131287219176
+Atlagos negyzetes elteres(%) BTC: 535.0703237142104
+Modell pontossaga BTC: -0.060787502389688
+Atlagos negyzetes elteres(%) BTC: 512.582710971638
+Modell pontossaga BTC: -0.10958337963913478
+Atlagos negyzetes elteres(%) BTC: 533.7361327764364
+Modell pontossaga BTC: -0.06990657020606306
+Atlagos negyzetes elteres(%) BTC: 508.991390022162
+Modell pontossaga BTC: -0.07954485475243156
+Atlagos negyzetes elteres(%) BTC: 533.5424595141807
+Modell pontossaga BTC: -0.0792781049469169
+Atlagos negyzetes elteres(%) BTC: 482.9320064051149
+Modell pontossaga BTC: -0.07784818949876837
+Atlagos negyzetes elteres(%) BTC: 523.2822222220473
+Modell pontossaga BTC: -0.06617360761256874
+Atlagos negyzetes elteres(%) BTC: 493.62027635558877
+Modell pontossaga BTC: -0.0571600614292711
+Atlagos negyzetes elteres(%) BTC: 523.5671799534525
+Modell pontossaga BTC: -0.17144437296818849
+Atlagos negyzetes elteres(%) BTC: 431.53755076690743
+Modell pontossaga BTC: -0.042678451717494514
+Atlagos negyzetes elteres(%) BTC: 509.95238686388166
+Modell pontossaga BTC: -0.07623251917428586
+Atlagos negyzetes elteres(%) BTC: 416.2462181316559
+
+----------------------SVM_w_random_ETH----------------------
+Legjobb C: 386.8155030138524, legjobb gamma: 0.20777225740215205
+Modell pontossaga ETH: 0.5093461620584242
+Atlagos negyzetes elteres(%) ETH: 67.98487637228378
+Modell pontossaga ETH: 0.552650542616762
+Atlagos negyzetes elteres(%) ETH: 101.71710435468096
+Modell pontossaga ETH: 0.5292237654483374
+Atlagos negyzetes elteres(%) ETH: 94.26161831156115
+Modell pontossaga ETH: 0.5257871432964145
+Atlagos negyzetes elteres(%) ETH: 67.97672832628933
+Modell pontossaga ETH: 0.5215225173865516
+Atlagos negyzetes elteres(%) ETH: 68.99637565025569
+Modell pontossaga ETH: 0.5143812880629468
+Atlagos negyzetes elteres(%) ETH: 69.77791857132796
+Modell pontossaga ETH: 0.5197006158846299
+Atlagos negyzetes elteres(%) ETH: 67.56521139910264
+Modell pontossaga ETH: 0.5098380569667642
+Atlagos negyzetes elteres(%) ETH: 78.8205158775198
+Modell pontossaga ETH: 0.5067510130081556
+Atlagos negyzetes elteres(%) ETH: 64.70302608196332
+Modell pontossaga ETH: 0.5574067993219443
+Atlagos negyzetes elteres(%) ETH: 77.04897194794545
+Modell pontossaga ETH: 0.5089308383654452
+Atlagos negyzetes elteres(%) ETH: 74.47041064143289
+Modell pontossaga ETH: 0.5172117238054459
+Atlagos negyzetes elteres(%) ETH: 102.55067082255611
+Modell pontossaga ETH: 0.5313832272816512
+Atlagos negyzetes elteres(%) ETH: 70.59300438822547
+Modell pontossaga ETH: 0.5933288611951243
+Atlagos negyzetes elteres(%) ETH: 63.125646113968756
+Modell pontossaga ETH: 0.5418445178276439
+Atlagos negyzetes elteres(%) ETH: 63.953221149800314
+Modell pontossaga ETH: 0.505361980616273
+Atlagos negyzetes elteres(%) ETH: 59.05505003489464
+Modell pontossaga ETH: 0.5485525659076693
+Atlagos negyzetes elteres(%) ETH: 59.964473877930445
+Modell pontossaga ETH: 0.5248814723853612
+Atlagos negyzetes elteres(%) ETH: 67.50305288140797
+Modell pontossaga ETH: 0.4900961563762031
+Atlagos negyzetes elteres(%) ETH: 68.76642316846414
+Modell pontossaga ETH: 0.5631873139454451
+Atlagos negyzetes elteres(%) ETH: 59.415596968123154
+Modell pontossaga ETH: 0.5466748376725197
+Atlagos negyzetes elteres(%) ETH: 94.29664642392312
+Modell pontossaga ETH: 0.5707614877482602
+Atlagos negyzetes elteres(%) ETH: 73.57740060718896
+Modell pontossaga ETH: 0.5205571555883871
+Atlagos negyzetes elteres(%) ETH: 69.61130141311588
+Modell pontossaga ETH: 0.5075793864374054
+Atlagos negyzetes elteres(%) ETH: 51.804707455773894
+Modell pontossaga ETH: 0.5236745276529648
+Atlagos negyzetes elteres(%) ETH: 84.41942907419731
+Modell pontossaga ETH: 0.5109526722665887
+Atlagos negyzetes elteres(%) ETH: 80.11635161585072
+Modell pontossaga ETH: 0.5430030835196675
+Atlagos negyzetes elteres(%) ETH: 67.7840308906335
+Modell pontossaga ETH: 0.5513869381256791
+Atlagos negyzetes elteres(%) ETH: 69.35286625485165
+Modell pontossaga ETH: 0.5730457689786839
+Atlagos negyzetes elteres(%) ETH: 69.72497382815787
+Modell pontossaga ETH: 0.566556072252199
+Atlagos negyzetes elteres(%) ETH: 66.7820613095483
+
+----------------------SVM_w_random_BNB----------------------
+Legjobb C: 679.8741744910028, legjobb gamma: 0.15460255217820879
+Modell pontossaga BNB: 0.8552254878369241
+Atlagos negyzetes elteres(%) BNB: 30.88421536129338
+Modell pontossaga BNB: 0.8485942970759494
+Atlagos negyzetes elteres(%) BNB: 33.93995780768746
+Modell pontossaga BNB: 0.8506232938654568
+Atlagos negyzetes elteres(%) BNB: 33.11652173740361
+Modell pontossaga BNB: 0.8658573717033862
+Atlagos negyzetes elteres(%) BNB: 36.92855490522299
+Modell pontossaga BNB: 0.8471187876882977
+Atlagos negyzetes elteres(%) BNB: 41.69777034922355
+Modell pontossaga BNB: 0.8534490017501271
+Atlagos negyzetes elteres(%) BNB: 33.27953597821088
+Modell pontossaga BNB: 0.8653305017219765
+Atlagos negyzetes elteres(%) BNB: 29.63561060106576
+Modell pontossaga BNB: 0.8551666981652358
+Atlagos negyzetes elteres(%) BNB: 30.739898521245863
+Modell pontossaga BNB: 0.8627375869454771
+Atlagos negyzetes elteres(%) BNB: 28.329403616492037
+Modell pontossaga BNB: 0.8917149534415681
+Atlagos negyzetes elteres(%) BNB: 28.184317395033194
+Modell pontossaga BNB: 0.8576035251079006
+Atlagos negyzetes elteres(%) BNB: 36.17513419302495
+Modell pontossaga BNB: 0.85586893910819
+Atlagos negyzetes elteres(%) BNB: 32.89124950927908
+Modell pontossaga BNB: 0.8431487029758101
+Atlagos negyzetes elteres(%) BNB: 34.62749356745398
+Modell pontossaga BNB: 0.8749040796119119
+Atlagos negyzetes elteres(%) BNB: 30.71170355933517
+Modell pontossaga BNB: 0.8466696527813509
+Atlagos negyzetes elteres(%) BNB: 36.299693516600854
+Modell pontossaga BNB: 0.8448771519723772
+Atlagos negyzetes elteres(%) BNB: 38.98032830399614
+Modell pontossaga BNB: 0.8659092558102738
+Atlagos negyzetes elteres(%) BNB: 30.06636760641913
+Modell pontossaga BNB: 0.9028810001788888
+Atlagos negyzetes elteres(%) BNB: 30.646576339483687
+Modell pontossaga BNB: 0.8618892557940838
+Atlagos negyzetes elteres(%) BNB: 35.87287224041602
+Modell pontossaga BNB: 0.8246180236137074
+Atlagos negyzetes elteres(%) BNB: 36.61005343005804
+Modell pontossaga BNB: 0.8798143920357554
+Atlagos negyzetes elteres(%) BNB: 29.4686792334522
+Modell pontossaga BNB: 0.8639028312855203
+Atlagos negyzetes elteres(%) BNB: 28.75990271460509
+Modell pontossaga BNB: 0.8802294984546762
+Atlagos negyzetes elteres(%) BNB: 30.899693234489227
+Modell pontossaga BNB: 0.8454510920105024
+Atlagos negyzetes elteres(%) BNB: 33.06185816929981
+Modell pontossaga BNB: 0.8611594375281654
+Atlagos negyzetes elteres(%) BNB: 27.28147430595867
+Modell pontossaga BNB: 0.8531463977803424
+Atlagos negyzetes elteres(%) BNB: 31.39999460524504
+Modell pontossaga BNB: 0.8826416624563519
+Atlagos negyzetes elteres(%) BNB: 29.057638553441535
+Modell pontossaga BNB: 0.8586422110328895
+Atlagos negyzetes elteres(%) BNB: 34.28206098469195
+Modell pontossaga BNB: 0.8767239290194856
+Atlagos negyzetes elteres(%) BNB: 29.246726594024093
+Modell pontossaga BNB: 0.8698106054519177
+Atlagos negyzetes elteres(%) BNB: 36.1691377881125
+
+----------------------SVM_w_random_DOGE----------------------
+Legjobb C: 537.4420850039645, legjobb gamma: 9.510823947270174
+Modell pontossaga DOGE: 0.1513018258586012
+Atlagos negyzetes elteres(%) DOGE: 2165.097606071338
+Modell pontossaga DOGE: 0.16335116629829372
+Atlagos negyzetes elteres(%) DOGE: 2071.32863585799
+Modell pontossaga DOGE: 0.16159727778616084
+Atlagos negyzetes elteres(%) DOGE: 2141.6172073511857
+Modell pontossaga DOGE: 0.05179194959093758
+Atlagos negyzetes elteres(%) DOGE: 2043.5802569259415
+Modell pontossaga DOGE: 0.1432774214089697
+Atlagos negyzetes elteres(%) DOGE: 2002.7392928654933
+Modell pontossaga DOGE: 0.15355582974810078
+Atlagos negyzetes elteres(%) DOGE: 2034.948555463981
+Modell pontossaga DOGE: 0.1461801105190258
+Atlagos negyzetes elteres(%) DOGE: 2088.0209307275823
+Modell pontossaga DOGE: 0.16715987092164464
+Atlagos negyzetes elteres(%) DOGE: 2158.097253383475
+Modell pontossaga DOGE: 0.2188942406953419
+Atlagos negyzetes elteres(%) DOGE: 2085.583580680117
+Modell pontossaga DOGE: 0.151517021452656
+Atlagos negyzetes elteres(%) DOGE: 2101.76906535238
+Modell pontossaga DOGE: 0.09682727045964257
+Atlagos negyzetes elteres(%) DOGE: 1992.1663122295577
+Modell pontossaga DOGE: 0.18642501001970113
+Atlagos negyzetes elteres(%) DOGE: 1897.4244146624244
+Modell pontossaga DOGE: 0.09216894386224472
+Atlagos negyzetes elteres(%) DOGE: 2142.7879644077134
+Modell pontossaga DOGE: 0.11636674055409335
+Atlagos negyzetes elteres(%) DOGE: 2125.257202689382
+Modell pontossaga DOGE: 0.09454992267856688
+Atlagos negyzetes elteres(%) DOGE: 2002.1845192908436
+Modell pontossaga DOGE: 0.17094152086687098
+Atlagos negyzetes elteres(%) DOGE: 1983.3242832853196
+Modell pontossaga DOGE: 0.054633744009697005
+Atlagos negyzetes elteres(%) DOGE: 2099.9847790640733
+Modell pontossaga DOGE: 0.206503555832816
+Atlagos negyzetes elteres(%) DOGE: 2028.2104841170078
+Modell pontossaga DOGE: 0.1913544894703777
+Atlagos negyzetes elteres(%) DOGE: 2078.321227461453
+Modell pontossaga DOGE: 0.03051659261878259
+Atlagos negyzetes elteres(%) DOGE: 2019.9142453890765
+Modell pontossaga DOGE: 0.23425583381381032
+Atlagos negyzetes elteres(%) DOGE: 1976.1140006832895
+Modell pontossaga DOGE: 0.20951928432842093
+Atlagos negyzetes elteres(%) DOGE: 2118.8966357941927
+Modell pontossaga DOGE: 0.19605695285241387
+Atlagos negyzetes elteres(%) DOGE: 1951.3379041287244
+Modell pontossaga DOGE: 0.15832853093990829
+Atlagos negyzetes elteres(%) DOGE: 2124.8523555218644
+Modell pontossaga DOGE: 0.24509025274402396
+Atlagos negyzetes elteres(%) DOGE: 2103.423141620435
+Modell pontossaga DOGE: 0.1683180537507296
+Atlagos negyzetes elteres(%) DOGE: 2052.971245571736
+Modell pontossaga DOGE: 0.29737085850356226
+Atlagos negyzetes elteres(%) DOGE: 1926.1605784221053
+Modell pontossaga DOGE: 0.2705900078578386
+Atlagos negyzetes elteres(%) DOGE: 2059.1025304899485
+Modell pontossaga DOGE: 0.20043106329254168
+Atlagos negyzetes elteres(%) DOGE: 2056.5833080199136
+Modell pontossaga DOGE: 0.23330216792206593
+Atlagos negyzetes elteres(%) DOGE: 2139.9277799766833
+
+----------------------SVM_w_random_LTC----------------------
+Legjobb C: 272.63497437855835, legjobb gamma: 0.14451429363099705
+Modell pontossaga LTC: 0.7372788084064862
+Atlagos negyzetes elteres(%) LTC: 27.76332992694365
+Modell pontossaga LTC: 0.7287075583572309
+Atlagos negyzetes elteres(%) LTC: 34.416991977215275
+Modell pontossaga LTC: 0.8015022758076747
+Atlagos negyzetes elteres(%) LTC: 28.62046456817563
+Modell pontossaga LTC: 0.7687421059500662
+Atlagos negyzetes elteres(%) LTC: 33.34892139849689
+Modell pontossaga LTC: 0.7490435244251612
+Atlagos negyzetes elteres(%) LTC: 27.4832903776779
+Modell pontossaga LTC: 0.7678757394471678
+Atlagos negyzetes elteres(%) LTC: 28.41768819275503
+Modell pontossaga LTC: 0.81082896985814
+Atlagos negyzetes elteres(%) LTC: 25.154518872763376
+Modell pontossaga LTC: 0.7483746442628125
+Atlagos negyzetes elteres(%) LTC: 25.944243725808363
+Modell pontossaga LTC: 0.779872010622519
+Atlagos negyzetes elteres(%) LTC: 27.43462111483188
+Modell pontossaga LTC: 0.794895469312153
+Atlagos negyzetes elteres(%) LTC: 27.86266165765483
+Modell pontossaga LTC: 0.7655915830762476
+Atlagos negyzetes elteres(%) LTC: 29.395372588533707
+Modell pontossaga LTC: 0.7859606174167838
+Atlagos negyzetes elteres(%) LTC: 35.55486558632756
+Modell pontossaga LTC: 0.7948014095094562
+Atlagos negyzetes elteres(%) LTC: 33.105110547139475
+Modell pontossaga LTC: 0.7884721058186788
+Atlagos negyzetes elteres(%) LTC: 31.21410137835267
+Modell pontossaga LTC: 0.7093842840938653
+Atlagos negyzetes elteres(%) LTC: 31.673907428139852
+Modell pontossaga LTC: 0.7879616165158381
+Atlagos negyzetes elteres(%) LTC: 29.14847055683824
+Modell pontossaga LTC: 0.7906687963007974
+Atlagos negyzetes elteres(%) LTC: 27.139031739507907
+Modell pontossaga LTC: 0.7111409815068315
+Atlagos negyzetes elteres(%) LTC: 28.51650563823388
+Modell pontossaga LTC: 0.7862595110014174
+Atlagos negyzetes elteres(%) LTC: 27.482046889352635
+Modell pontossaga LTC: 0.786295146332099
+Atlagos negyzetes elteres(%) LTC: 26.536957022497447
+Modell pontossaga LTC: 0.7228394846472735
+Atlagos negyzetes elteres(%) LTC: 27.93785499729365
+Modell pontossaga LTC: 0.7164096940306892
+Atlagos negyzetes elteres(%) LTC: 26.541172546422963
+Modell pontossaga LTC: 0.7529245023238951
+Atlagos negyzetes elteres(%) LTC: 25.330402276884772
+Modell pontossaga LTC: 0.7151013282697088
+Atlagos negyzetes elteres(%) LTC: 30.15366408056506
+Modell pontossaga LTC: 0.7514978627928648
+Atlagos negyzetes elteres(%) LTC: 29.405301381891146
+Modell pontossaga LTC: 0.7235696283484588
+Atlagos negyzetes elteres(%) LTC: 28.320088515633042
+Modell pontossaga LTC: 0.7887864835010676
+Atlagos negyzetes elteres(%) LTC: 27.57433449604842
+Modell pontossaga LTC: 0.7502189819699794
+Atlagos negyzetes elteres(%) LTC: 29.539472156391287
+Modell pontossaga LTC: 0.790395999131105
+Atlagos negyzetes elteres(%) LTC: 27.32715254959734
+Modell pontossaga LTC: 0.7494565057762733
+Atlagos negyzetes elteres(%) LTC: 28.561160101156364
+
+----------------------SVM_w_bayes_BTC----------------------
+Legjobb C: 1000.0, legjobb gamma: 1e-06
+Modell pontossaga BTC: 0.8843580621601743
+Atlagos negyzetes elteres(%) BTC: 23.65377748801172
+Modell pontossaga BTC: 0.8821993308887561
+Atlagos negyzetes elteres(%) BTC: 25.160026665039116
+Modell pontossaga BTC: 0.9069452501877187
+Atlagos negyzetes elteres(%) BTC: 23.63252205306515
+Modell pontossaga BTC: 0.8994557445927218
+Atlagos negyzetes elteres(%) BTC: 23.15893926295812
+Modell pontossaga BTC: 0.8952087486055658
+Atlagos negyzetes elteres(%) BTC: 22.636213895448545
+Modell pontossaga BTC: 0.8754085621639175
+Atlagos negyzetes elteres(%) BTC: 22.41279969951356
+Modell pontossaga BTC: 0.882353815522872
+Atlagos negyzetes elteres(%) BTC: 23.03441904195473
+Modell pontossaga BTC: 0.8900652857056965
+Atlagos negyzetes elteres(%) BTC: 22.586570133098547
+Modell pontossaga BTC: 0.8795404302379728
+Atlagos negyzetes elteres(%) BTC: 23.735202414153733
+Modell pontossaga BTC: 0.8951230409166809
+Atlagos negyzetes elteres(%) BTC: 25.463632881310122
+Modell pontossaga BTC: 0.8852944953735578
+Atlagos negyzetes elteres(%) BTC: 25.48552858338859
+Modell pontossaga BTC: 0.8842460635797144
+Atlagos negyzetes elteres(%) BTC: 23.861877974156517
+Modell pontossaga BTC: 0.9061960432304317
+Atlagos negyzetes elteres(%) BTC: 22.156448456617646
+Modell pontossaga BTC: 0.8913472299698648
+Atlagos negyzetes elteres(%) BTC: 23.081728747696413
+Modell pontossaga BTC: 0.8752064033346778
+Atlagos negyzetes elteres(%) BTC: 25.5004927156392
+Modell pontossaga BTC: 0.9032551988027073
+Atlagos negyzetes elteres(%) BTC: 25.12468707748547
+Modell pontossaga BTC: 0.8764241347533237
+Atlagos negyzetes elteres(%) BTC: 21.97766724303557
+Modell pontossaga BTC: 0.9017418020588793
+Atlagos negyzetes elteres(%) BTC: 23.504997097170218
+Modell pontossaga BTC: 0.8950082714578943
+Atlagos negyzetes elteres(%) BTC: 23.22052674450836
+Modell pontossaga BTC: 0.89766011649924
+Atlagos negyzetes elteres(%) BTC: 24.237342510041675
+Modell pontossaga BTC: 0.8795347947195824
+Atlagos negyzetes elteres(%) BTC: 23.536586281087864
+Modell pontossaga BTC: 0.8832728259850284
+Atlagos negyzetes elteres(%) BTC: 24.406729371664973
+Modell pontossaga BTC: 0.8856850642281084
+Atlagos negyzetes elteres(%) BTC: 23.778307084172845
+Modell pontossaga BTC: 0.8799770215755955
+Atlagos negyzetes elteres(%) BTC: 22.494332170209073
+Modell pontossaga BTC: 0.9014313194635917
+Atlagos negyzetes elteres(%) BTC: 23.11543854923327
+Modell pontossaga BTC: 0.9003762396018946
+Atlagos negyzetes elteres(%) BTC: 22.65423011673289
+Modell pontossaga BTC: 0.9004178781894188
+Atlagos negyzetes elteres(%) BTC: 23.30399672535024
+Modell pontossaga BTC: 0.8828501010922873
+Atlagos negyzetes elteres(%) BTC: 24.6572947400439
+Modell pontossaga BTC: 0.8979407731223128
+Atlagos negyzetes elteres(%) BTC: 23.015942218120703
+Modell pontossaga BTC: 0.9011272413603545
+Atlagos negyzetes elteres(%) BTC: 22.87205643002756
+
+----------------------SVM_w_bayes_ETH----------------------
+Legjobb C: 636.3573169876408, legjobb gamma: 1e-06
+Modell pontossaga ETH: 0.8773422963171617
+Atlagos negyzetes elteres(%) ETH: 31.364891737173135
+Modell pontossaga ETH: 0.9167934223373675
+Atlagos negyzetes elteres(%) ETH: 30.68430171354941
+Modell pontossaga ETH: 0.872562732740207
+Atlagos negyzetes elteres(%) ETH: 31.275709881578077
+Modell pontossaga ETH: 0.9008884887086791
+Atlagos negyzetes elteres(%) ETH: 28.993035516577375
+Modell pontossaga ETH: 0.86374730321124
+Atlagos negyzetes elteres(%) ETH: 30.261891377889444
+Modell pontossaga ETH: 0.8876416883649416
+Atlagos negyzetes elteres(%) ETH: 30.67396599983045
+Modell pontossaga ETH: 0.8931639675799421
+Atlagos negyzetes elteres(%) ETH: 29.330761312928455
+Modell pontossaga ETH: 0.9013807401291749
+Atlagos negyzetes elteres(%) ETH: 29.025370688878137
+Modell pontossaga ETH: 0.8799593444370694
+Atlagos negyzetes elteres(%) ETH: 31.26872783651164
+Modell pontossaga ETH: 0.8683153317326796
+Atlagos negyzetes elteres(%) ETH: 34.78702912839856
+Modell pontossaga ETH: 0.9114920220421792
+Atlagos negyzetes elteres(%) ETH: 33.06312630805087
+Modell pontossaga ETH: 0.8888064806883923
+Atlagos negyzetes elteres(%) ETH: 32.24744722186088
+Modell pontossaga ETH: 0.8915992061532602
+Atlagos negyzetes elteres(%) ETH: 29.939867818211408
+Modell pontossaga ETH: 0.8996490508903949
+Atlagos negyzetes elteres(%) ETH: 33.83391992146386
+Modell pontossaga ETH: 0.8928540574486817
+Atlagos negyzetes elteres(%) ETH: 30.76833254316547
+Modell pontossaga ETH: 0.8772859614225129
+Atlagos negyzetes elteres(%) ETH: 30.36790298418358
+Modell pontossaga ETH: 0.8646019856137835
+Atlagos negyzetes elteres(%) ETH: 30.796982394805617
+Modell pontossaga ETH: 0.8905602905895156
+Atlagos negyzetes elteres(%) ETH: 29.654417324725923
+Modell pontossaga ETH: 0.9031490139696391
+Atlagos negyzetes elteres(%) ETH: 28.64692303165231
+Modell pontossaga ETH: 0.8883933386901954
+Atlagos negyzetes elteres(%) ETH: 30.786566547208295
+Modell pontossaga ETH: 0.8791026466875773
+Atlagos negyzetes elteres(%) ETH: 28.81853896346796
+Modell pontossaga ETH: 0.8950989337709263
+Atlagos negyzetes elteres(%) ETH: 29.665213994281803
+Modell pontossaga ETH: 0.8937818663031665
+Atlagos negyzetes elteres(%) ETH: 28.303141926811843
+Modell pontossaga ETH: 0.9126970292180324
+Atlagos negyzetes elteres(%) ETH: 34.36248121460502
+Modell pontossaga ETH: 0.8735795357472345
+Atlagos negyzetes elteres(%) ETH: 33.54558728259746
+Modell pontossaga ETH: 0.8975713194426509
+Atlagos negyzetes elteres(%) ETH: 29.56083701322469
+Modell pontossaga ETH: 0.8769620731155732
+Atlagos negyzetes elteres(%) ETH: 30.149214226564652
+Modell pontossaga ETH: 0.8799790729520066
+Atlagos negyzetes elteres(%) ETH: 29.83152620257456
+Modell pontossaga ETH: 0.8803871437270611
+Atlagos negyzetes elteres(%) ETH: 34.41714900757435
+Modell pontossaga ETH: 0.8658803260058721
+Atlagos negyzetes elteres(%) ETH: 30.668695819822762
+
+----------------------SVM_w_bayes_BNB----------------------
+Legjobb C: 1000.0, legjobb gamma: 1e-06
+Modell pontossaga BNB: 0.8838907926553388
+Atlagos negyzetes elteres(%) BNB: 31.93484079650963
+Modell pontossaga BNB: 0.9112726613338559
+Atlagos negyzetes elteres(%) BNB: 32.233969687854184
+Modell pontossaga BNB: 0.8895868917894916
+Atlagos negyzetes elteres(%) BNB: 31.522069832090594
+Modell pontossaga BNB: 0.8859756656011858
+Atlagos negyzetes elteres(%) BNB: 33.958339393380946
+Modell pontossaga BNB: 0.8620934122390911
+Atlagos negyzetes elteres(%) BNB: 30.776687719113088
+Modell pontossaga BNB: 0.8943895589786199
+Atlagos negyzetes elteres(%) BNB: 33.369143826712964
+Modell pontossaga BNB: 0.9087408299448313
+Atlagos negyzetes elteres(%) BNB: 30.518555607431075
+Modell pontossaga BNB: 0.9014324258755837
+Atlagos negyzetes elteres(%) BNB: 28.77958564212043
+Modell pontossaga BNB: 0.8906438400304499
+Atlagos negyzetes elteres(%) BNB: 31.05378116746683
+Modell pontossaga BNB: 0.8635315783453459
+Atlagos negyzetes elteres(%) BNB: 35.38084563755039
+Modell pontossaga BNB: 0.8846928350896708
+Atlagos negyzetes elteres(%) BNB: 31.260843989096188
+Modell pontossaga BNB: 0.8561072990794967
+Atlagos negyzetes elteres(%) BNB: 33.052929378622174
+Modell pontossaga BNB: 0.8734097807210611
+Atlagos negyzetes elteres(%) BNB: 28.982273260731233
+Modell pontossaga BNB: 0.8676442263492437
+Atlagos negyzetes elteres(%) BNB: 32.3606021667497
+Modell pontossaga BNB: 0.8860685765175235
+Atlagos negyzetes elteres(%) BNB: 27.67533890622452
+Modell pontossaga BNB: 0.8948021623249275
+Atlagos negyzetes elteres(%) BNB: 27.78480021828643
+Modell pontossaga BNB: 0.9049187041224327
+Atlagos negyzetes elteres(%) BNB: 28.452740749099426
+Modell pontossaga BNB: 0.907823333176679
+Atlagos negyzetes elteres(%) BNB: 30.751204099090934
+Modell pontossaga BNB: 0.8994220998890514
+Atlagos negyzetes elteres(%) BNB: 32.06547663802806
+Modell pontossaga BNB: 0.8886343533381584
+Atlagos negyzetes elteres(%) BNB: 28.982408163447428
+Modell pontossaga BNB: 0.8981555639683213
+Atlagos negyzetes elteres(%) BNB: 30.385624524600587
+Modell pontossaga BNB: 0.8739470925967767
+Atlagos negyzetes elteres(%) BNB: 31.682530952132197
+Modell pontossaga BNB: 0.8921309097252257
+Atlagos negyzetes elteres(%) BNB: 31.132750158702834
+Modell pontossaga BNB: 0.8794710508736094
+Atlagos negyzetes elteres(%) BNB: 27.913694702333807
+Modell pontossaga BNB: 0.8875027622274912
+Atlagos negyzetes elteres(%) BNB: 30.603520390968843
+Modell pontossaga BNB: 0.8952459729377693
+Atlagos negyzetes elteres(%) BNB: 29.713762346474482
+Modell pontossaga BNB: 0.8702917605814682
+Atlagos negyzetes elteres(%) BNB: 31.44660564743433
+Modell pontossaga BNB: 0.9067741650249324
+Atlagos negyzetes elteres(%) BNB: 32.47871768855487
+Modell pontossaga BNB: 0.8541384868347027
+Atlagos negyzetes elteres(%) BNB: 33.53149641593659
+Modell pontossaga BNB: 0.9093741885361074
+Atlagos negyzetes elteres(%) BNB: 32.900632090881246
+
+----------------------SVM_w_bayes_DOGE----------------------
+Legjobb C: 1000.0, legjobb gamma: 10.0
+Modell pontossaga DOGE: 0.11069935556903843
+Atlagos negyzetes elteres(%) DOGE: 1870.2267123893105
+Modell pontossaga DOGE: 0.08888278234751035
+Atlagos negyzetes elteres(%) DOGE: 1945.7612201171428
+Modell pontossaga DOGE: 0.11458036227313084
+Atlagos negyzetes elteres(%) DOGE: 2029.0144976585325
+Modell pontossaga DOGE: 0.275451141071424
+Atlagos negyzetes elteres(%) DOGE: 1801.0697106433422
+Modell pontossaga DOGE: 0.26207808387822296
+Atlagos negyzetes elteres(%) DOGE: 1848.5104699190433
+Modell pontossaga DOGE: 0.30889221851718496
+Atlagos negyzetes elteres(%) DOGE: 1883.9394615442948
+Modell pontossaga DOGE: 0.14820401962150032
+Atlagos negyzetes elteres(%) DOGE: 2038.959243229909
+Modell pontossaga DOGE: 0.3234797948881353
+Atlagos negyzetes elteres(%) DOGE: 1781.84692479955
+Modell pontossaga DOGE: 0.2677239827731892
+Atlagos negyzetes elteres(%) DOGE: 1869.7652441840407
+Modell pontossaga DOGE: 0.1270973954904281
+Atlagos negyzetes elteres(%) DOGE: 1949.0580331491053
+Modell pontossaga DOGE: 0.25924410020014776
+Atlagos negyzetes elteres(%) DOGE: 1728.5920185959774
+Modell pontossaga DOGE: 0.19462114518442786
+Atlagos negyzetes elteres(%) DOGE: 1767.4349507033494
+Modell pontossaga DOGE: 0.2044623164036472
+Atlagos negyzetes elteres(%) DOGE: 1834.35723011154
+Modell pontossaga DOGE: 0.12154119242978656
+Atlagos negyzetes elteres(%) DOGE: 2110.1598485792997
+Modell pontossaga DOGE: 0.28229351883242426
+Atlagos negyzetes elteres(%) DOGE: 1792.958308818758
+Modell pontossaga DOGE: 0.16224520445784063
+Atlagos negyzetes elteres(%) DOGE: 1917.3105557966885
+Modell pontossaga DOGE: 0.2985138949161017
+Atlagos negyzetes elteres(%) DOGE: 1743.4997982000689
+Modell pontossaga DOGE: 0.2384470733713272
+Atlagos negyzetes elteres(%) DOGE: 2035.0477793654982
+Modell pontossaga DOGE: 0.07681640351093466
+Atlagos negyzetes elteres(%) DOGE: 1999.0002912908487
+Modell pontossaga DOGE: 0.28686163125802666
+Atlagos negyzetes elteres(%) DOGE: 2024.0160358542478
+Modell pontossaga DOGE: 0.31043795860064716
+Atlagos negyzetes elteres(%) DOGE: 1874.9013018347214
+Modell pontossaga DOGE: 0.21978311696461716
+Atlagos negyzetes elteres(%) DOGE: 1991.9558136450514
+Modell pontossaga DOGE: 0.25723000371723814
+Atlagos negyzetes elteres(%) DOGE: 1870.1070637189798
+Modell pontossaga DOGE: 0.23837583965987785
+Atlagos negyzetes elteres(%) DOGE: 1893.732635197297
+Modell pontossaga DOGE: 0.1895979681205998
+Atlagos negyzetes elteres(%) DOGE: 1894.8699837574445
+Modell pontossaga DOGE: 0.1587165848977603
+Atlagos negyzetes elteres(%) DOGE: 1916.1085267076865
+Modell pontossaga DOGE: 0.20306580394016038
+Atlagos negyzetes elteres(%) DOGE: 1919.3056042657097
+Modell pontossaga DOGE: 0.17691855285248226
+Atlagos negyzetes elteres(%) DOGE: 1868.5203247286386
+Modell pontossaga DOGE: 0.2380853450908419
+Atlagos negyzetes elteres(%) DOGE: 1794.1401395164867
+Modell pontossaga DOGE: 0.2761186464768616
+Atlagos negyzetes elteres(%) DOGE: 1766.261342011549
+
+----------------------SVM_w_bayes_LTC----------------------
+Legjobb C: 375.27547543171283, legjobb gamma: 1e-06
+Modell pontossaga LTC: 0.7404185259794116
+Atlagos negyzetes elteres(%) LTC: 29.659873715346414
+Modell pontossaga LTC: 0.7712403838394046
+Atlagos negyzetes elteres(%) LTC: 29.612386233516723
+Modell pontossaga LTC: 0.741572734358943
+Atlagos negyzetes elteres(%) LTC: 30.74604340236847
+Modell pontossaga LTC: 0.8052755548667725
+Atlagos negyzetes elteres(%) LTC: 29.639304745953414
+Modell pontossaga LTC: 0.8006174624238768
+Atlagos negyzetes elteres(%) LTC: 27.146947373348635
+Modell pontossaga LTC: 0.7009369849593657
+Atlagos negyzetes elteres(%) LTC: 28.614690019424526
+Modell pontossaga LTC: 0.7729956477627591
+Atlagos negyzetes elteres(%) LTC: 27.11116574652621
+Modell pontossaga LTC: 0.747483838558265
+Atlagos negyzetes elteres(%) LTC: 27.55489749272982
+Modell pontossaga LTC: 0.7670183501676442
+Atlagos negyzetes elteres(%) LTC: 29.60414019837983
+Modell pontossaga LTC: 0.7794765960920995
+Atlagos negyzetes elteres(%) LTC: 26.139046154626694
+Modell pontossaga LTC: 0.8155778479373998
+Atlagos negyzetes elteres(%) LTC: 28.090773103709143
+Modell pontossaga LTC: 0.7541748251015151
+Atlagos negyzetes elteres(%) LTC: 27.721773630008766
+Modell pontossaga LTC: 0.8194799514255213
+Atlagos negyzetes elteres(%) LTC: 27.62976583683806
+Modell pontossaga LTC: 0.8075996497923631
+Atlagos negyzetes elteres(%) LTC: 28.087000112309024
+Modell pontossaga LTC: 0.8120308352736109
+Atlagos negyzetes elteres(%) LTC: 29.963600888056213
+Modell pontossaga LTC: 0.7286340788171031
+Atlagos negyzetes elteres(%) LTC: 28.77401668237442
+Modell pontossaga LTC: 0.776802518031671
+Atlagos negyzetes elteres(%) LTC: 28.33007207943914
+Modell pontossaga LTC: 0.7707184613121418
+Atlagos negyzetes elteres(%) LTC: 27.708979153544465
+Modell pontossaga LTC: 0.770374352544532
+Atlagos negyzetes elteres(%) LTC: 28.612397401739027
+Modell pontossaga LTC: 0.7953533017192956
+Atlagos negyzetes elteres(%) LTC: 29.980080602715304
+Modell pontossaga LTC: 0.785711964567682
+Atlagos negyzetes elteres(%) LTC: 28.359784256925664
+Modell pontossaga LTC: 0.7435532070113859
+Atlagos negyzetes elteres(%) LTC: 26.37053184730231
+Modell pontossaga LTC: 0.7618517743109366
+Atlagos negyzetes elteres(%) LTC: 28.431594457232134
+Modell pontossaga LTC: 0.7798096788009788
+Atlagos negyzetes elteres(%) LTC: 28.340017753868285
+Modell pontossaga LTC: 0.7598391866094526
+Atlagos negyzetes elteres(%) LTC: 29.850868733917512
+Modell pontossaga LTC: 0.7538609749274416
+Atlagos negyzetes elteres(%) LTC: 28.97708221497534
+Modell pontossaga LTC: 0.7791692944936195
+Atlagos negyzetes elteres(%) LTC: 28.170430730791228
+Modell pontossaga LTC: 0.7922278918964782
+Atlagos negyzetes elteres(%) LTC: 26.998045351792282
+Modell pontossaga LTC: 0.730055504607461
+Atlagos negyzetes elteres(%) LTC: 27.86657115943304
+Modell pontossaga LTC: 0.7275266027143183
+Atlagos negyzetes elteres(%) LTC: 29.174882623257893
+
+----------------------SVM_w_evolution_BTC----------------------
+Legjobb C: 944.2628606624265, legjobb gamma: 0.018167259632147874
+Modell pontossaga BTC: 0.07831615498282796
+Atlagos negyzetes elteres(%) BTC: 250.2061587666838
+Modell pontossaga BTC: 0.04844600435834778
+Atlagos negyzetes elteres(%) BTC: 156.3270750779687
+Modell pontossaga BTC: 0.01753602770496787
+Atlagos negyzetes elteres(%) BTC: 147.38377340707518
+Modell pontossaga BTC: 0.05666473272010286
+Atlagos negyzetes elteres(%) BTC: 167.92828262581205
+Modell pontossaga BTC: 0.005270146480352733
+Atlagos negyzetes elteres(%) BTC: 218.84882041379265
+Modell pontossaga BTC: 0.0050661049047036055
+Atlagos negyzetes elteres(%) BTC: 163.1489625660469
+Modell pontossaga BTC: 0.05719826828069963
+Atlagos negyzetes elteres(%) BTC: 181.0448725157372
+Modell pontossaga BTC: 0.054598933142037676
+Atlagos negyzetes elteres(%) BTC: 176.18453596898436
+Modell pontossaga BTC: 0.027232449183928753
+Atlagos negyzetes elteres(%) BTC: 223.75009289492635
+Modell pontossaga BTC: 0.02727835641976961
+Atlagos negyzetes elteres(%) BTC: 152.60471924067184
+Modell pontossaga BTC: 0.000992375274631141
+Atlagos negyzetes elteres(%) BTC: 185.85722182895464
+Modell pontossaga BTC: 0.010420139048405774
+Atlagos negyzetes elteres(%) BTC: 160.00088772536603
+Modell pontossaga BTC: 0.05519497313595301
+Atlagos negyzetes elteres(%) BTC: 182.35085327735183
+Modell pontossaga BTC: 0.05485258315709207
+Atlagos negyzetes elteres(%) BTC: 194.0187027526415
+Modell pontossaga BTC: -0.00556144039990647
+Atlagos negyzetes elteres(%) BTC: 162.98598664947187
+Modell pontossaga BTC: 0.02027758401073998
+Atlagos negyzetes elteres(%) BTC: 171.79786170366
+Modell pontossaga BTC: 0.016883730537110897
+Atlagos negyzetes elteres(%) BTC: 175.89245095388642
+Modell pontossaga BTC: 0.0066208811208892104
+Atlagos negyzetes elteres(%) BTC: 163.17078459506763
+Modell pontossaga BTC: 0.08895730564085313
+Atlagos negyzetes elteres(%) BTC: 178.08593996741163
+Modell pontossaga BTC: 0.0288663746132245
+Atlagos negyzetes elteres(%) BTC: 200.12181123112555
+Modell pontossaga BTC: 0.031111885478850576
+Atlagos negyzetes elteres(%) BTC: 286.52638048085237
+Modell pontossaga BTC: 0.024626592817897697
+Atlagos negyzetes elteres(%) BTC: 162.3915285363472
+Modell pontossaga BTC: 0.016375393595387755
+Atlagos negyzetes elteres(%) BTC: 183.0040112620094
+Modell pontossaga BTC: 0.06505776461818935
+Atlagos negyzetes elteres(%) BTC: 164.59638850867512
+Modell pontossaga BTC: 0.05098542398858308
+Atlagos negyzetes elteres(%) BTC: 234.1428452404058
+Modell pontossaga BTC: 0.014732201141132495
+Atlagos negyzetes elteres(%) BTC: 219.25483946295336
+Modell pontossaga BTC: 0.05643053979086099
+Atlagos negyzetes elteres(%) BTC: 187.67819926686758
+Modell pontossaga BTC: 0.04046656130509263
+Atlagos negyzetes elteres(%) BTC: 229.4975670582494
+Modell pontossaga BTC: 0.03260451827360833
+Atlagos negyzetes elteres(%) BTC: 187.68320938238818
+
+----------------------SVM_w_evolution_ETH----------------------
+Legjobb C: 988.5567224405354, legjobb gamma: 3.5808795927699277
+Modell pontossaga ETH: 0.3962604231669715
+Atlagos negyzetes elteres(%) ETH: 121.7546119903921
+Modell pontossaga ETH: 0.38539139157773705
+Atlagos negyzetes elteres(%) ETH: 153.38835790223695
+Modell pontossaga ETH: 0.39084360782035577
+Atlagos negyzetes elteres(%) ETH: 109.51373896499695
+Modell pontossaga ETH: 0.3878720533052453
+Atlagos negyzetes elteres(%) ETH: 117.18854088178486
+Modell pontossaga ETH: 0.42008566500748656
+Atlagos negyzetes elteres(%) ETH: 134.1962696789855
+Modell pontossaga ETH: 0.4096167126284789
+Atlagos negyzetes elteres(%) ETH: 153.6649129926663
+Modell pontossaga ETH: 0.37564343775908426
+Atlagos negyzetes elteres(%) ETH: 112.5085862173244
+Modell pontossaga ETH: 0.39817344458833637
+Atlagos negyzetes elteres(%) ETH: 112.220587154535
+Modell pontossaga ETH: 0.3834448133254764
+Atlagos negyzetes elteres(%) ETH: 113.89112715548204
+Modell pontossaga ETH: 0.4191909097781037
+Atlagos negyzetes elteres(%) ETH: 131.1913746844395
+Modell pontossaga ETH: 0.3677339742918134
+Atlagos negyzetes elteres(%) ETH: 135.7489269078726
+Modell pontossaga ETH: 0.36625850136476434
+Atlagos negyzetes elteres(%) ETH: 135.16099679703646
+Modell pontossaga ETH: 0.38241650190557586
+Atlagos negyzetes elteres(%) ETH: 129.15581651947772
+Modell pontossaga ETH: 0.3933718649444736
+Atlagos negyzetes elteres(%) ETH: 105.51671449898376
+Modell pontossaga ETH: 0.37846476099396553
+Atlagos negyzetes elteres(%) ETH: 129.25052315025937
+Modell pontossaga ETH: 0.44805520582906844
+Atlagos negyzetes elteres(%) ETH: 106.62934673791315
+Modell pontossaga ETH: 0.41692054344269003
+Atlagos negyzetes elteres(%) ETH: 145.36323347264533
+Modell pontossaga ETH: 0.3864133440458224
+Atlagos negyzetes elteres(%) ETH: 116.58717435799626
+Modell pontossaga ETH: 0.3795084617215705
+Atlagos negyzetes elteres(%) ETH: 150.0966155451294
+Modell pontossaga ETH: 0.33851815837154253
+Atlagos negyzetes elteres(%) ETH: 145.22721009941705
+Modell pontossaga ETH: 0.3817907277299799
+Atlagos negyzetes elteres(%) ETH: 127.27169452272742
+Modell pontossaga ETH: 0.37159528413069354
+Atlagos negyzetes elteres(%) ETH: 124.89009565218274
+Modell pontossaga ETH: 0.41129092020695035
+Atlagos negyzetes elteres(%) ETH: 120.02297927858888
+Modell pontossaga ETH: 0.3932142231862641
+Atlagos negyzetes elteres(%) ETH: 128.0441488084409
+Modell pontossaga ETH: 0.376878592355931
+Atlagos negyzetes elteres(%) ETH: 101.48281729999853
+Modell pontossaga ETH: 0.4115211665415398
+Atlagos negyzetes elteres(%) ETH: 140.4524209600622
+Modell pontossaga ETH: 0.3840306447572891
+Atlagos negyzetes elteres(%) ETH: 111.38840821311693
+Modell pontossaga ETH: 0.39458973836080435
+Atlagos negyzetes elteres(%) ETH: 130.2541643292513
+Modell pontossaga ETH: 0.4490446944842351
+Atlagos negyzetes elteres(%) ETH: 109.5847160901303
+
+----------------------SVM_w_evolution_BNB----------------------
+Legjobb C: 43.783298886436434, legjobb gamma: 0.018167259632147874
+Modell pontossaga BNB: 0.9136776491901177
+Atlagos negyzetes elteres(%) BNB: 28.131001619920553
+Modell pontossaga BNB: 0.8885043049662169
+Atlagos negyzetes elteres(%) BNB: 32.458763995197856
+Modell pontossaga BNB: 0.8936592702752925
+Atlagos negyzetes elteres(%) BNB: 30.608400842355042
+Modell pontossaga BNB: 0.8927760736703052
+Atlagos negyzetes elteres(%) BNB: 37.34913454767417
+Modell pontossaga BNB: 0.8962343424496699
+Atlagos negyzetes elteres(%) BNB: 38.41323354204515
+Modell pontossaga BNB: 0.8954249812563531
+Atlagos negyzetes elteres(%) BNB: 36.18847804774349
+Modell pontossaga BNB: 0.8880198895947049
+Atlagos negyzetes elteres(%) BNB: 34.269134923322675
+Modell pontossaga BNB: 0.8878274264789041
+Atlagos negyzetes elteres(%) BNB: 37.305975575222725
+Modell pontossaga BNB: 0.8917889557396972
+Atlagos negyzetes elteres(%) BNB: 34.65979710924337
+Modell pontossaga BNB: 0.8766457733667754
+Atlagos negyzetes elteres(%) BNB: 42.705490790147515
+Modell pontossaga BNB: 0.8821000175499001
+Atlagos negyzetes elteres(%) BNB: 32.4393338315233
+Modell pontossaga BNB: 0.8841992314388344
+Atlagos negyzetes elteres(%) BNB: 42.68666527007934
+Modell pontossaga BNB: 0.9048371474473957
+Atlagos negyzetes elteres(%) BNB: 35.504596575392426
+Modell pontossaga BNB: 0.8930152670417969
+Atlagos negyzetes elteres(%) BNB: 32.117703972255185
+Modell pontossaga BNB: 0.9015089362179926
+Atlagos negyzetes elteres(%) BNB: 36.415247155289485
+Modell pontossaga BNB: 0.8766061591125898
+Atlagos negyzetes elteres(%) BNB: 33.830758884386675
+Modell pontossaga BNB: 0.9006020648498976
+Atlagos negyzetes elteres(%) BNB: 37.3025074041701
+Modell pontossaga BNB: 0.8792600113453617
+Atlagos negyzetes elteres(%) BNB: 41.60152802683009
+Modell pontossaga BNB: 0.8904960031622368
+Atlagos negyzetes elteres(%) BNB: 37.95262021017564
+Modell pontossaga BNB: 0.9065135598098435
+Atlagos negyzetes elteres(%) BNB: 38.023310793578034
+Modell pontossaga BNB: 0.8894649174369766
+Atlagos negyzetes elteres(%) BNB: 42.40771541181492
+Modell pontossaga BNB: 0.8865283482931698
+Atlagos negyzetes elteres(%) BNB: 38.263921806914276
+Modell pontossaga BNB: 0.8957935300184504
+Atlagos negyzetes elteres(%) BNB: 37.638015518920994
+Modell pontossaga BNB: 0.8894451266655695
+Atlagos negyzetes elteres(%) BNB: 29.40192473523771
+Modell pontossaga BNB: 0.8913534134139149
+Atlagos negyzetes elteres(%) BNB: 36.40025972909914
+Modell pontossaga BNB: 0.8982158670407165
+Atlagos negyzetes elteres(%) BNB: 36.168488495083466
+Modell pontossaga BNB: 0.8754683051651765
+Atlagos negyzetes elteres(%) BNB: 42.26993007138132
+Modell pontossaga BNB: 0.8814530700142875
+Atlagos negyzetes elteres(%) BNB: 37.49402836988984
+Modell pontossaga BNB: 0.9035160791270985
+Atlagos negyzetes elteres(%) BNB: 36.44818078956768
+
+----------------------SVM_w_evolution_DOGE----------------------
+Legjobb C: 991.9968631654488, legjobb gamma: 9.909149537156358
+Modell pontossaga DOGE: 0.16771580256963958
+Atlagos negyzetes elteres(%) DOGE: 1865.9853617588954
+Modell pontossaga DOGE: 0.2437265393039515
+Atlagos negyzetes elteres(%) DOGE: 1993.0416999028025
+Modell pontossaga DOGE: 0.24400698538654675
+Atlagos negyzetes elteres(%) DOGE: 1868.0401662892884
+Modell pontossaga DOGE: 0.1365759998602799
+Atlagos negyzetes elteres(%) DOGE: 1910.863798403508
+Modell pontossaga DOGE: 0.2041092275273505
+Atlagos negyzetes elteres(%) DOGE: 1830.4194363267825
+Modell pontossaga DOGE: 0.010545543270147673
+Atlagos negyzetes elteres(%) DOGE: 1974.6652795643654
+Modell pontossaga DOGE: 0.20941486698810519
+Atlagos negyzetes elteres(%) DOGE: 1983.7797125364748
+Modell pontossaga DOGE: 0.1345459511564293
+Atlagos negyzetes elteres(%) DOGE: 1977.8676905227505
+Modell pontossaga DOGE: 0.20492376953953073
+Atlagos negyzetes elteres(%) DOGE: 1959.0988845775414
+Modell pontossaga DOGE: 0.23408930696838426
+Atlagos negyzetes elteres(%) DOGE: 2012.511344857607
+Modell pontossaga DOGE: 0.33399409258335677
+Atlagos negyzetes elteres(%) DOGE: 1827.8839100645528
+Modell pontossaga DOGE: 0.18825088553884473
+Atlagos negyzetes elteres(%) DOGE: 1887.4579077757285
+Modell pontossaga DOGE: 0.18904722702387644
+Atlagos negyzetes elteres(%) DOGE: 1838.650792568815
+Modell pontossaga DOGE: 0.16426936548779203
+Atlagos negyzetes elteres(%) DOGE: 1764.3325400061894
+Modell pontossaga DOGE: 0.2568605419151755
+Atlagos negyzetes elteres(%) DOGE: 1796.6358576691011
+Modell pontossaga DOGE: 0.17723093393586542
+Atlagos negyzetes elteres(%) DOGE: 1731.4725835976017
+Modell pontossaga DOGE: 0.2942375480559615
+Atlagos negyzetes elteres(%) DOGE: 1747.3635697139873
+Modell pontossaga DOGE: 0.22210300435865216
+Atlagos negyzetes elteres(%) DOGE: 2002.3897504942165
+Modell pontossaga DOGE: 0.27433225784867565
+Atlagos negyzetes elteres(%) DOGE: 1949.0733781789224
+Modell pontossaga DOGE: 0.21689815210501906
+Atlagos negyzetes elteres(%) DOGE: 1789.0155811040036
+Modell pontossaga DOGE: 0.21797247796863994
+Atlagos negyzetes elteres(%) DOGE: 1896.1749169501115
+Modell pontossaga DOGE: 0.15377119204945022
+Atlagos negyzetes elteres(%) DOGE: 1915.9507578626663
+Modell pontossaga DOGE: 0.1851090061572498
+Atlagos negyzetes elteres(%) DOGE: 1817.4459009832137
+Modell pontossaga DOGE: 0.21947636902945578
+Atlagos negyzetes elteres(%) DOGE: 1925.8847168455115
+Modell pontossaga DOGE: 0.2110045293324565
+Atlagos negyzetes elteres(%) DOGE: 1999.1774542979365
+Modell pontossaga DOGE: 0.2542700372069031
+Atlagos negyzetes elteres(%) DOGE: 2001.9547310130206
+Modell pontossaga DOGE: 0.32245044720159455
+Atlagos negyzetes elteres(%) DOGE: 1703.8096517815948
+Modell pontossaga DOGE: 0.2675874499037467
+Atlagos negyzetes elteres(%) DOGE: 1939.0988174661175
+Modell pontossaga DOGE: 0.24261608584291794
+Atlagos negyzetes elteres(%) DOGE: 1936.6792936184347
+
+----------------------SVM_w_evolution_LTC----------------------
+Legjobb C: 855.925264850804, legjobb gamma: 0.06956002117629723
+Modell pontossaga LTC: 0.7206803034489144
+Atlagos negyzetes elteres(%) LTC: 27.197670809823954
+Modell pontossaga LTC: 0.803260166577382
+Atlagos negyzetes elteres(%) LTC: 30.354074118616598
+Modell pontossaga LTC: 0.7606184656791782
+Atlagos negyzetes elteres(%) LTC: 28.2638532495174
+Modell pontossaga LTC: 0.7655039230539424
+Atlagos negyzetes elteres(%) LTC: 31.865872630477288
+Modell pontossaga LTC: 0.7358940174983288
+Atlagos negyzetes elteres(%) LTC: 28.07404828840527
+Modell pontossaga LTC: 0.7856282183482692
+Atlagos negyzetes elteres(%) LTC: 27.50065528028056
+Modell pontossaga LTC: 0.731256947623161
+Atlagos negyzetes elteres(%) LTC: 26.358573406627116
+Modell pontossaga LTC: 0.7430182333728425
+Atlagos negyzetes elteres(%) LTC: 30.11126326055474
+Modell pontossaga LTC: 0.7331726001918917
+Atlagos negyzetes elteres(%) LTC: 27.171268804514103
+Modell pontossaga LTC: 0.7195439059567821
+Atlagos negyzetes elteres(%) LTC: 28.540316223329132
+Modell pontossaga LTC: 0.7111563818841304
+Atlagos negyzetes elteres(%) LTC: 28.952121533664183
+Modell pontossaga LTC: 0.7424917021574677
+Atlagos negyzetes elteres(%) LTC: 30.794180799025117
+Modell pontossaga LTC: 0.7133363345414929
+Atlagos negyzetes elteres(%) LTC: 29.565092106038414
+Modell pontossaga LTC: 0.7497610052548487
+Atlagos negyzetes elteres(%) LTC: 30.02300555605433
+Modell pontossaga LTC: 0.7425554227031961
+Atlagos negyzetes elteres(%) LTC: 28.37616570067805
+Modell pontossaga LTC: 0.7332686941339125
+Atlagos negyzetes elteres(%) LTC: 27.23477427408931
+Modell pontossaga LTC: 0.7713052521755104
+Atlagos negyzetes elteres(%) LTC: 27.821931853058995
+Modell pontossaga LTC: 0.7449838871324274
+Atlagos negyzetes elteres(%) LTC: 29.473395339187814
+Modell pontossaga LTC: 0.7000496069267623
+Atlagos negyzetes elteres(%) LTC: 31.408499550076126
+Modell pontossaga LTC: 0.7171918210847332
+Atlagos negyzetes elteres(%) LTC: 30.119045275797795
+Modell pontossaga LTC: 0.755901702098661
+Atlagos negyzetes elteres(%) LTC: 25.75648168498313
+Modell pontossaga LTC: 0.7275923465924059
+Atlagos negyzetes elteres(%) LTC: 26.47991087591766
+Modell pontossaga LTC: 0.8255231746814211
+Atlagos negyzetes elteres(%) LTC: 29.925422221865855
+Modell pontossaga LTC: 0.802704692401971
+Atlagos negyzetes elteres(%) LTC: 29.054551135248495
+Modell pontossaga LTC: 0.7384211675076559
+Atlagos negyzetes elteres(%) LTC: 28.387651873950247
+Modell pontossaga LTC: 0.7331219139946075
+Atlagos negyzetes elteres(%) LTC: 29.843121448191024
+Modell pontossaga LTC: 0.7751329408267804
+Atlagos negyzetes elteres(%) LTC: 30.945305653697076
+Modell pontossaga LTC: 0.7648451955906684
+Atlagos negyzetes elteres(%) LTC: 31.268060741522337
+Modell pontossaga LTC: 0.8209143667380424
+Atlagos negyzetes elteres(%) LTC: 28.333070451531782

@@ -76,10 +76,14 @@ def dataPreprocessingAndSvmTeaching(dataframe, svr):
     svr.fit(x_train, y_train) #SVM tanítása
     #Pontosság vizsgálat
     model_accuracy = svr.score(x_test, y_test)
+    statfile = open("SVM_stats.txt", "a")
+    statfile.write(f"Modell pontossaga {c}: {model_accuracy}\n")
     print(f"Modell pontossága {c}: ", model_accuracy)
     #Teszthalmazon átlagos négyzetes eltérés mérése
     predictions = svr.predict(x_test)
     rmse = (np.sqrt(np.mean(np.square((y_test - predictions) / y_test)))) * 100
+    statfile.write(f"Atlagos negyzetes elteres(%) {c}: {rmse}\n")
+    statfile.close()
     print(f"Átlagos négyzetes eltérés(%) {c}: ", rmse)
     #DataFrame visszaadása
     return dataframe
@@ -90,6 +94,9 @@ generations = 10
 forecasting_days = 30
 
 for c in cryptos:
+    statfile = open("SVM_stats.txt", "a")
+    statfile.write(f"\n----------------------SVM_w_evolution_{c}----------------------\n")
+    statfile.close()
     #Preprocessing
     df = pd.read_csv(f'.\Exchange Rates\{c}-USD_fact.csv', index_col=False) #Adatfájl betöltése
     df['Prediction'] = df[['Close']].shift(-forecasting_days) #Új oszlop beszúrása az előrejelzendő napok számával megegyező eltolással
@@ -113,6 +120,9 @@ for c in cryptos:
         population = makeNextGen(parents_population)
         mutatePopulation(population, 30)
 
+    statfile = open("SVM_stats.txt", "a")
+    statfile.write(f"Legjobb C: {sorted_population[0][0]}, legjobb gamma: {sorted_population[0][1]}\n")
+    statfile.close()
     print(sorted_population[0][0], sorted_population[0][1])
     print(sorted_population[0][2])
 
@@ -132,13 +142,13 @@ for c in cryptos:
     #Előrejelzés 30 napra
     for i in range(0, 30):
         if not firsttime:
-            df = pd.read_csv(f'.\Exchange Rates\{c}-USD_p_svm_evolution.csv', index_col=False)
+            df = pd.read_csv(f'.\Exchange Rates\{c}-USD_p_svm_evolution_2.csv', index_col=False)
             df = dataPreprocessingAndSvmTeaching(df, rbf)
         last_rows = np.array(df.drop(['Date', 'Open', 'High', 'Low', 'Volume', 'Prediction'], axis=1))[-forecasting_days:] 
         forecast = rbf.predict(last_rows)
         df = df.drop(['Prediction'], axis=1)
         df.loc[len(df)] = [str((datetime.strptime(df.iloc[-1]['Date'], '%Y-%m-%d %H:%M:%S%z') + timedelta(days=1))), forecast[forecasting_days-1], forecast[forecasting_days-1], forecast[forecasting_days-1], forecast[forecasting_days-1], 0]
-        df.to_csv(f'.\Exchange Rates\{c}-USD_p_svm_evolution.csv', index=False)
+        df.to_csv(f'.\Exchange Rates\{c}-USD_p_svm_evolution_2.csv', index=False)
         firsttime = False
 
-visualizeAndSave(cryptos, ['', '-USD_p_svm_evolution.csv'], ['', '-USD_svm_evolution.svg'])
+visualizeAndSave(cryptos, ['', '-USD_p_svm_evolution_2.csv'], ['', '-USD_svm_evolution_2.svg'])
